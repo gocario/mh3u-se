@@ -1,0 +1,1532 @@
+
+Alchimie, tome 1
+Alchimie, tome 2
+Alchimie, tome 3
+Alchimie, tome 4
+Alchimie, tome 5
+Comment ranger, tome 1
+Comment ranger, tome 2
+Potion
+Méga potion
+Nutriments
+Méga nutriments
+Antidote
+Immunisateur
+Jus dénergie
+Méga jus énergie
+Potion du démon
+Potion du démon +
+Philtre du diable
+Potion de pierre
+Potion de pierre +
+Philtre de métal
+Breuvage frais
+Breuvage chaud
+Nettoyant
+Sérum psy
+Phyto médicament
+Potion secrète
+Potion ancestrale
+Catalyseur
+Breuvage énergie
+Potion d'air
+Potion d'air+
+Poudre à canon
+Cristaux de vie
+Poudre de vie
+Charme mystère
+Charme brillant
+Charme vétuste
+Charme immuable
+Charme pouvoir
+Griffe pouvoir
+Charme armure
+Griffe armure
+Tranquilisant
+Viande crue
+Viande poison
+Viande teintée
+Viande droguée
+Steak saignant
+Steak à point
+Viande brûlée
+Viande chaude
+Viande fraîche
+Foie rose
+Viande. wyv. ethq
+Boomerang
+Cout. de lancer
+Couteau poison
+Cout. somnifère
+Cout. paralysant
+Cout. tranq.
+Gaine bombe
+Marqueur
+Bombe flash
+Bombe sonique
+Bouse
+Bouse démesurée
+
+Bombe de bouse
+Bombe de fumée
+Bombe de poison
+Transporteur
+Bomb tranq
+Bonbonne oxygène
+Toile d'araignée
+Filet
+Pose-piège
+Fosse piégée
+Piège à choc
+Petit baril
+Grand baril
+Pt bombe baril
+Pt bombe baril+
+Gd bombe baril
+Gd bombe baril+
+Bombe rebond
+Bombe rebond+
+Bombe Felvine
+Baie-coque
+Pt coque d'os
+Gd coque d'os
+Mn Normale Nv1
+Mn Normale Nv2
+Mn Normale Nv3
+Mn Perç. Nv1
+Mn Perç. Nv2
+Mn Perç. Nv3
+Mn Plomb Nv1
+Mn Plomb Nv2
+Mn Plomb Nv3
+Mn Explos. Nv1
+Mn Explos. Nv2
+Mn Explos. Nv3
+Mn Frag. Nv1
+Mn Frag. Nv2
+Mn Frag. Nv3
+Mn Enflammée
+Mn Eau
+Mn Foudre
+Mn Gel
+Mn Dragon
+Mn Guér. Nv1
+Mn Guér. Nv2
+Mn Poison Nv1
+Mn Poison Nv2
+Mn Para Nv1
+Mn Para Nv2
+Mn Sommeil Nv1
+Mn Sommeil Nv2
+Mn Tranq.
+Mn Marqueur
+Mn Démon
+DUMMY 1
+Mn Armure
+DUMMY 2
+Mn SM Nv1
+Mn SM Nv2
+Mn Épuis. Nv1
+Mn Épuis. Nv2
+Mn Tranchante
+DUMMY 3
+DUMMY 4
+Feu wyvern
+Mn baliste SM
+(Pas d'enduit)
+Fiole vide
+Enduit énergie
+Enduit càc
+Enduit poison
+Enduit paralysie
+Enduit sommeil
+Enduit épuis.
+Enduit peinture
+DUMMY 5
+Ver
+DUMMY 6
+Méga mouche
+Grenouille
+App. Poissaiguis
+App. Sushipoiss.
+Appât pour thon
+DUMMY 7
+Appât Poissondor
+Appât explosif
+DUMMY 8
+Vieille pioche
+Pioche de fer
+Méga pioche
+Vieux filinsecte
+Filinsecte
+Méga filinsecte
+Harpon de pêche
+Méga harpon
+Broche BBQ
+Super broche BBQ
+Aiguisoir
+Jumelles
+Déchet
+Corne de chasse
+Flûte de vie
+Flûte antidote
+Flûte du démon
+Flûte de pierre
+Miel
+Herbe
+Herbe antidote
+Herbe de feu
+DUMMY 9
+Lierre
+Herbe sommeil
+Plante sève
+Felvine
+Fleur de cactus
+Herbe d'air
+Piment fort
+DUMMY 10
+Champi bleu
+Champinitro
+Champaralysie
+Champi vénéneux
+Champexciteur
+DUMMY 11
+Champi dragon
+Champimmobile
+Baie-peinture
+Graine pouvoir
+Graine armure
+Baie dragon
+Frag-noix
+Baiguille
+DUMMMY 12
+Bombaie
+DUMMY 13
+DUMMY 14
+DUMMY 15
+DUMMY 16
+Baie-soin
+Potironron
+Carapace cassée
+Perle noire
+Perle Jumbo
+Pierre
+Minerai de fer
+Cristal de terre
+Machalite
+Dragonite
+Pelagicite
+DUMMY 17
+DUMMY 18
+DUMMY 19
+Carbalite
+Eltalite
+Fucium
+Meldium
+Bathycite
+Pépite-lave
+Pierre-feu
+Pierre-lave
+Pierre ardente
+Cristal lumière
+Isisium
+DUMMY 20
+Gracium
+Pierre antisept.
+Cristal glacé
+Pierre d'armure
+Sphère d'armure
+Sphère d'armure+
+Sph. armure avc
+Sph. armure dure
+Sph. armure lrde
+DUMMY 21
+Sph. armure pure
+Poissaiguiseur
+Sushipoisson
+Somnipoisson
+Pointhon
+Poisséclate
+Frag-poisson
+Arowana éclat
+Arowana bombe
+Thon glouton
+Pt Poissondor
+Wanchois
+DUMMY 22
+Couperet bleu
+Méloconque
+DUMMY 23
+Coque d'insecte
+Patatinsecte
+Insecte sauteur
+DUMMY 215
+Fétisauteur
+Larve-serpent
+Insecte-dieu
+Amerinsecte
+Flashinsecte
+Foudrinsecte
+Fulgurinsecte
+Bâtinsecte
+Scarabée tueur
+Hercudrome
+DUMMY 24
+Roi scarabée
+Scarabée rare
+DUMMY 25
+Papiluit
+DUMMY 26
+Poche bombe
+Hurleur
+Poche de poison
+Poche de toxine
+DUMMY 27
+Poche paralysie
+Poche omniplégie
+Poche somnifère
+Poche de coma
+Poche de flamme
+Poche infernale
+Poche explosive
+Poche d'eau
+Poche de torrent
+DUMMY 217
+Poche de foudre
+Poche d'éclair
+Poche de givre
+Poche de gel
+Extrait sprint
+Extrait pâle
+Os monstre petit
+Os monstre moyen
+Os monstre grand
+Os mystère
+Crâne inconnu
+Os
+Résistos aviaire
+DUMMY 218
+Os de monstre+
+Acéros monstre
+Duros monstre
+Robustos monstre
+Finos aviaire
+Jumbos
+Résistos
+Relique os drag.
+Croc de Wyvern
+Griffe de Wyvern
+Pierre de Wyvern
+Pierre Wyv. lge
+Gem. Wyv. aviaire
+Pierre Wyv. pure
+Sanc Anc. dragon
+DUMMY 28
+Gem. dragon azur
+Sph. dragon azur
+Jolie écaille
+Étoile brillante
+Mrc. Poissarmure
+Belle peau
+Rame puissante
+Croc courbé
+Morc. os dragon
+Morc. d'Abalone
+Morc. de fossile
+Plume étourdi.
+Saturnien
+Narval mystique
+Rame parfaite
+Croc clair lune
+Écail. éclatante
+Crâne géant
+Crabe d'Atlantis
+Aiguille reine
+Huil. peau ancie.
+Plume flamboy.
+Ancien Saturnien
+Esprit reine
+Écail. vermillon
+Écaille roi mer
+Œuf bizarre
+Piège Saturnien
+Pro des insectes
+Super phéromones
+Champigerme
+Champigerme+
+Abeilles actives
+Trouve-poisson
+Marqueur trésor
+Lance de secours
+Croc de pitance
+Croc de fortune
+Aiguille d'or
+Or Wyvern
+Butin de pirate
+Œuf d'acier
+Œuf d'argent
+Œuf d'or
+Obj. corne Kelbi
+Obj. corn. tordue
+Obj. croc Mohran
+Poogie
+Poogie-œuf
+Poogie-rath
+Plante en grès
+Plante marais
+Plante flocon
+Lampe champrisme
+Lampe Qurupeco
+Lampe sirène
+Fontaine océan.
+Fontaine pétill.
+Fontaine magma
+Sculpture en fer
+Sculp. Machalite
+Sculp. Dragonite
+Navire des dunes
+Dirigeable
+Zeppelin Poogie
+Mb guilde (Rg)
+Mb guilde (Vt)
+Mb guilde (Bl)
+Grand Poogi
+Couronne incomp.
+Gemme couronne
+Couronne éclat.
+Épée or récomp.
+Médaillon or
+Corne de Kelbi
+Corn. Kelbi bleue
+Peau chaude
+Peau gd qualité
+Plume de Gargwa
+DUMMY 29
+DUMMY 30
+Corne d'Anteka
+DUMMY 31
+Carapa. Bnahabra
+DUMMY 32
+Cuira. Bnahabra
+Aile Bnahabra
+DUMMY 33
+Tranch. Bnahabra
+Dard Bnahabra
+Mâch. Altaroth
+DUMMY 34
+Estomac Altaroth
+Estomac prisé
+Poche qualité
+Peau Bullfango
+DUMMY 35
+Tête Bullfango
+Fluide monstre
+Brouet monstre
+Carap. Rhenoplos
+Os Rhenoplos
+Scalp Rhenoplos
+DUMMY 36
+Cuira. Rhenoplos
+DUMMY 219
+Cuir Slagtoth+
+DUMMY 37
+Grand nageoire
+DUMMY 38
+Nageoire qualité
+Nageoire géante
+Croc aiguisé
+Cuir feutré
+Peau requin
+Écaille Jaggi
+Écaille Jaggi+
+DUMMY 39
+Cuir Jaggi
+DUMMY 40
+DUMMY 41
+Croc wyv. aviaire
+Cuir gd. Jaggi
+Cuir gd. Jaggi+
+Pelage gd. Jaggi
+Griffe gd. Jaggi
+Griffe gd. Jaggi+
+DUMMY 42
+Collerette roi
+Collerette impé.
+Tête gd. Jaggi
+DUMMY 43
+Cuir Baggi
+Écaille Baggi
+Écaille Baggi+
+DUMMY 44
+Cuir gd. Baggi
+Cuir gd. Baggi+
+Pelage gd. Baggi
+Griffe gd. Baggi
+Griffe gd. Baggi+
+DUMMY 45
+Crête roi
+Crête impériale
+Écaille Wroggi
+Écaille Wroggi+
+DUMMY 46
+Cuir Wroggi
+Croc Wroggi
+Cuir gd. Wroggi
+Pelage gd. Wroggi
+Cuir gd. Wroggi+
+Att. gd. Wroggi
+DUMMY 47
+Att. gd. Wroggi+
+Bec roi
+Bec impérial
+Écail. Qurupeco
+Écail. Qurupeco+
+Éclat Qurupeco
+Plume Qurupeco
+Plume lustrée
+Aile Qurupeco
+Rigipl. Qurupeco
+Plume vive
+Bec étrange
+Bec merveilleux
+Bec élégant
+Silex
+Silex de qualité
+Écail. Peco V.+
+Éclat Peco V.
+Aile Qurupeco V.
+Rigipl. Peco V.
+Pierre-volt
+Mega pierre-volt
+Cuir aquatique
+Cuir aquatique+
+DUMMY 48
+Éponge immature
+Éponge qualité
+Cuir spongieux
+Cuir spongieux+
+Pelage spong.
+Écail. Ludroth R.
+Écail. Ludroth R.+
+Éclat Ludroth R.
+Grif. Ludroth R.
+Grif. Ludroth R.+
+Serre Ludroth R.
+Crête Ludroth R.
+Crt. Ludroth R.+
+Crête chic
+Queue Ludroth R.
+Cuir spon. prune
+Pel. spon. prune
+Éca. Ludroth P.+
+Éclat Ludroth P.
+Grif. Ludroth P.+
+Serre Ludroth P.
+Carapace Barroth
+Cuirasse Barroth
+Cortex Barroth
+Vertèbre Barroth
+Vert. Barroth+
+Échine Barroth
+Griffe Barroth
+Griffe Barroth+
+Serre Barroth
+Scalp Barroth
+Couronne Barroth
+Queue Barroth
+Cuir. Barroth J.
+Cort. Barroth J.
+Ver. Barroth J.+
+Éch. Barroth J.
+Gri. Barroth J.+
+Ser. Barroth J.
+Sca. Barroth J.
+Cour. Barroth J.
+Queue Barroth J.
+Fouet Barroth J.
+Globe gelé
+DUMMY 49
+Cuir Gobul
+Cuir Gobul+
+Pelage Gobul
+Nageoire Gobul
+Nageoire Gobul+
+Nag. raff. Gobul
+Pointe Gobul
+Pointe Gobul+
+Surpointe Gobul
+Moustache Gobul
+Bacchante Gobul
+Lanterne Gobul
+lanterne Gobul+
+Balise Gobul
+Écaille Rathian
+Écaille Rathian+
+Éclat Rathian
+Carapace Rathian
+Cuirasse Rathian
+Cortex Rathian
+Palmure Rathian
+Pointe Rathian
+Pointe Rathian+
+Surpoin. Rathian
+Plaque Rathian
+Mante Rathian
+Rubis Rathian
+DUMMY 50
+Éca. Rathian R.+
+Écl. Rathian R.
+Cuir. Rathian R.
+Cort. Rathian R.
+Écl. Rathian D.
+Cort. Rathian D.
+Surp. Rathian D.
+Écaille Rathalos
+Écail. Rathalos+
+Éclat Rathalos
+Carapa. Rathanlos
+Cuiras. Rathalos
+Cortex Rathalos
+Palmure Rathalos
+Rigipl. Rathalos
+Queue Rathalos
+Fouet Rathalos
+Plaque Rathalos
+Mante Rathalos
+Rubis Rathalos
+Griffe Rath
+Déchireur Rath
+Moelle Rath
+Medulla Rath
+Lueur Rath
+Éca. Rath A.+
+Éclat Rath A.
+Cuir. Rath A.
+Cortex Rath A.
+Queue Rath A.
+Fouet Rath A.
+Aile Rath A.
+Éclat Rath Ar.
+Cortex Rath Ar.
+Fouet Rath Ar.
+DUMMY 215
+DUMMY 51
+DUMMY 52
+Cuir Gigginox
+Cuir Gigginox+
+Pelage Gigginox
+Cuir étrange
+Cuir étrange+
+Griffe Gigginox
+Griffe Gigginox+
+Serre Gigginox
+DUMMY 53
+DUMMY 54
+Gueule terrif.
+Glande venin
+G. venin infâme
+G. venin putride
+Cuir Giggi F.+
+Pelage Gigg F.
+Griffe Giggi F.+
+Serre Giggi F.
+Écail. Lagiacrus
+Écail. Lagiacrus+
+Éclat Lagiacrus
+Électricarapace
+Électricarapace+
+Électrichoc
+Cuir Lagiacrus
+Cuir Lagiacrus+
+Griffe Lagiacrus
+Grif. Lagiacrus +
+Serre Lagiacrus
+Queue Lagiacrus
+Traîne Lagiacrus
+Corne Lagiacrus
+Corne Lagiacrus+
+Saphir Lagia
+Mante Lagiacrus
+Plaque Lagiacrus
+Écaille Lagi I+
+Éclat Lagi I.
+Électro Lagi I.+
+Électric Lagi I.
+Cuir Lagi I.+
+Pelage Lagi I.
+DUMMY 55
+DUMMY 56
+DUMMY 57
+DUMMY 58
+Corne Lagi I.+
+Durcorne Lagi I.
+DUMMY 59
+DUMMY 60
+DUMMY 61
+Éclat Lagi A.
+Électric Lagi A.
+Pelage Lagi A.
+DUMMY 62
+DUMMY 63
+Durcorne Lagi A.
+Dynamo Lagi A.
+Carapace Barioth
+Cuirasse Barioth
+Cortex Barioth
+Peau Barioth
+Peau Barioth+
+Fourrure Barioth
+Griffe Brioth
+Griffe Barioth+
+Serre Barioth
+Pointe Barioth
+DUMMY 64
+Queue Barioth
+Fouet Barioth
+Défenses ambre
+Défenses ambre+
+Déf. ambre ldes
+Cuir. Barioth S.
+Cort. Barioth S.
+Peau Barioth S.+
+Four. Barioth S.
+Gri. Barioth S.+
+Ser. Barioth S.
+Queue Barioth S.
+Fouet Barioth S.
+Défenses indigo+
+Déf. indigo ldes
+Plèvre coriace
+Plèvre coriace+
+Carapace Diablos
+Cuirasse Diablos
+Cortex Diablos
+Vertèbre Diablos
+Vert. Diablos+
+Échine Diablos
+Étui queue Diab.
+DUMMY 65
+Croc Diablos
+Corne tordue
+Corne grandiose
+Corne épaisse
+Moelle Diablos
+Medulla Diablos
+Cuir. Diablos N.
+Cort. Diablos N.
+Ver. Diablos N.+
+Éch. Diablos N.
+DUMMY 66
+DUMMY 67
+Corne torsadée
+Corne torsadée+
+Écaille Uragaan
+Écaille Uragaan+
+Éclat Uragaan
+Carapace uragaan
+Cuirasse Uragaan
+Cortex Uragaan
+Mâchoire Uragaan
+Mâch. Uragaan+
+Scutum Uragaan
+Scutum Uragaan+
+Moelle Uragaan
+Rubis Uragaan
+Pallium Uragaan
+Éca. Uragaan A.+
+Écl. Uragaan A.+
+Cuir. Uragaan A.
+Cor. Uragaan. A.
+Mâc. Uragaan .
+Mâc. Uragaan A.+
+Scu. Uragaan A.
+Scu. Uragaan A.+
+Écaille Uroktor
+Écaille Uroktor+
+Pelage souple
+Écaille Agnaktor
+DUMMY 68
+Carapa. Agnaktor
+Cuiras. Agnaktor
+Cuir Agnaktor
+Cuir Agnaktor+
+Pelage Agnaktor
+Griffe Agnaktor
+Griffe Agnaktor+
+Serre Agnaktor
+Nageoi. Agnaktor
+Nageo. Agnaktor+
+Nag. raff. Agnak
+Bec Agnaktor
+DUMMY 69
+Queue Agnaktor
+DUMMY 70
+Plèvre brûlante+
+Plèvre torride
+Cuir. Agnak G.
+Cortex Agnak G.
+Cuir Agnak G.+
+Pelage Agnak G.
+Griffe Agnak G.+
+Serre Agnak G.
+Nag. Agnak G.
+N. raf. Agnak G.
+Bec Agnaktor G
+DUMMY 71
+Queue Agnak G.
+DUMMY 72
+Plèvre humide+
+Plèvre trempée
+Écaille Ceadeus
+Cuir Ceadeus
+Fourrure Ceadeus
+Queue Ceadeus
+Corne courbée
+Organe lumineux
+Gem. dragon prof.
+Éclat Ceadeus B.
+Pela. Ceadeus B.
+Four. Ceadeus B.
+DUMMY 73
+Durcorne courbée
+DUMMY 74
+Gem. dragon noire
+DUMMY 75
+Écaille Mohran+
+DUMMY 76
+Cuirasse Mohran
+DUMMY 77
+Attelle Mohran+
+DUMMY 209
+Croc solide+
+Gem. dragon terre
+DUMMY 78
+Éclat Jhen S.
+DUMMY 79
+Cuiroc Jhen S.
+DUMMY 80
+Suratt. Jhen. S.
+DUMMY 81
+Croc divin
+Sph. drag. terre
+Écaille Deviljho
+Éclat Deviljho
+Cuir Deviljho
+Pelage Deviljho
+Croc Deviljho
+Croc vile
+Griffe Deviljho
+Déchir. Deviljho
+Scalp Deviljho
+DUMMY 82
+Queue Deviljho
+Traîne Deviljho
+Salive Deviljho
+Sang noir
+Gemme Deviljho
+Crochet Deviljho
+Scutum Alatreon
+Pallium Alatreon
+Plaque Alatreon
+Mante Alatreon
+Griffe Alatreon
+Déchir. Alatreon
+Palmure Alatreon
+Vilaile Alatreon
+Queue Alatreon
+Vileq. Alatreon
+Perce-ciel brisé
+DUMMY 83
+Perce-ciel
+Règne-ciel
+Peau Arzuros
+Peau Arzuros+
+DUMMY 84
+Carapace Arzuros
+Cuirasse Arzuros
+Cortex Arzuros
+Attelle Arzuros
+Attelle Arzuros+
+Suratt. Arzuros
+Peau Lagombi
+Peau Lagombi+
+Four. Lagombi
+Oreille Lagombi
+Oreille Lagombi+
+Oreillette Lago.
+Plastron Lagombi
+Plast. Lagombi+
+DUMMY 85
+Griffe Lagombi
+Griffe Lagombi+
+DUMMY 86
+Carap. Volvidon
+Cuiras. Volvidon
+Cortex Volvidon
+Griffe Volvidon
+Griffe Volvidon+
+Serre Volvidon
+Feston Volvidon
+DUMMY 87
+Cara. Nibelsnarf
+Cuir. Nibelsnarf
+Cortex Nibel
+Peau Nibelsnarf
+Peau Nibelsnarf+
+Pela Nibelsnarf
+Gri. Nibelsnarf
+Gri. Nibelsnarf+
+Serre Nibelsnarf
+Scalp Nibelsnarf
+DUMMY 88
+Fluide vif
+Fluide brillant
+Fluide éclatant
+DUMMY 89
+Cuirasse Zinogre
+Cortex Zinogre
+DUMMY 90
+Électro Zinogre+
+Électrif. Zino+
+DUMMY 91
+Corne Zinogre+
+Durcorne Zinogre
+DUMMY 92
+Griffe Zinogre+
+Serre Zinogre
+Queue Zinogre
+Fouet Zinogre
+DUMMY 94
+Électrif. Zino
+Életric Zinogre
+DUMMY 208
+Jaspe Zinore
+Céléméraude Zin
+Cort. Zinogre S.
+Dracopeau Zin S.
+Durc. Zinogre S.
+Serre Zinogre S.
+Fouet Zinogre S.
+Coque Zinogre S.
+Célé. Zinogre S.
+Écai. Nargacuga+
+Éclat Nargacuga
+Mante Nargacuga
+DUMMY 95
+Four. Nargacuga
+Queue Nargacuga
+Fouet Nargacuga
+Piqueue Narga
+Poinqueue Narga
+DUMMY 96
+Rasoir Narga+
+Croc Nargacuga+
+Croc Narga lrd
+Medulla Narga
+DUMMY 97
+Éclat narga V.
+DUMMY 98
+Taches Narga V.
+DUMMY 99
+Rasoir Narga V.+
+DUMMY 100
+Croc Narg V. lrd
+Éclat Narga S.
+Taches Narga S.
+Rasoir Narga S.
+Croc Narga S. lrd
+Cara. Duramboros
+Cuir. Duramboros
+Cort. Duramboros
+Mous. Duramboros
+Mousse robuste
+Mousse lourde
+Bosse Duramborors
+Bosse marbrée
+Étui queue Duram
+Ét. queue Duram+
+Durqueue Duram
+Corne Duramboros
+Corne Duram+
+Durcorne Duram
+Coccyx Duram
+Sacrum Duram
+Durambolite
+Carapa. Duram R.
+Plaque Duram R.
+DUMMY 101
+Durq. Duram R.
+DUMMY 102
+DUMMY 103
+Coque-homard lge
+DUMMY 105
+Croc Plesioth+
+Croc Plesio lrd
+Écai. Plesioth+
+Éclat Plesioth
+Nag. Plesioth+
+N. raf. Plesioth
+DUMMY 105
+Écl. Plesioth V.
+DUMMY 107
+N. raf. Plesi V.
+Cuir. Brachydios
+Cort. Brachydios
+Coquébène Brach
+Coquébène Brach+
+DUMMY 108
+DUMMY 109
+Scalp Brachydios
+Calp Brach+
+Poisse étrange
+Poisse luisante
+Poudre Brach
+Poudre Brach+
+Queue Brachydios
+DUMMY 110
+Gemme Brachydios
+Pallium Brach
+Écaille Miralis
+Coque-f. Miralis
+Griffeu Miralis
+DUMMY 111
+DUMMY 112
+Malœil Miralis
+DUMMY 113
+Ailenfer Miralis
+DUMMY 114
+DUMMY 115
+Fonderie Miralis
+Cœur immortel
+DUMMY 116
+Magma explosif
+Gem. dragon Miral
+Rouille-éclat
+Ancien éclat
+Fragment rouillé
+Large fragment
+Fragment effilé
+Long fragment
+Carte
+Premiers soins
+Ration
+DUMMY
+Mini aiguisoir
+Piège choc port.
+Flash bmb four.
+Bombe son. four.
+Potion max four.
+Fosse pié. four.
+Mini bonb. oxy.
+Gd bmb brl four.
+Mn Baliste
+Baliste agglom.
+DUMMY 117
+Mn Canon
+Bombe antidragon
+Torche
+Ticket Passechat
+Miel royal
+Champi spécial
+Champi parfait
+Champi unique
+Grand champi
+Super pousse
+DUMMY 118
+DUMMY 119
+Poissondargent
+DUMMY 120
+DUMMY 121
+Poissondor
+Rhino royal
+Rhino divin
+Grillon argenté
+Grillon doré
+Morc. auripierre
+Frag. auripierre
+Mor. odoripierre
+Fra. orodripierre
+Os cristal
+Os en or
+Pierre-sang
+Pierre-sg grenat
+Charbon
+Charbon volatil
+Œuf de Wyvern
+Œuf d'herbivore
+Œuf de Gargwa
+Œuf en or Gargwa
+DUMMY 206
+Pierre-poudre
+Guano de Gargwa
+Foie blanc
+Huile Slagtoth
+Langue de Popo
+Poche secrète
+Gland rond
+Estomac raffiné
+Estomac lumineux
+Extrait Giggi
+Boyaux monstre
+Corail rouge
+Larmes de Wyvern
+larmes Wyv. lges
+Larmes de bête
+Larmes bête lges
+Pièce aviaire
+DUMMY 122
+DUMMY 123
+DUMMY 124
+DUMMY 125
+DUMMY 126
+DUMMY 127
+Pièce Leviathan
+DUMMY 128
+DUMMY 129
+DUMMY 130
+DUMMY 131
+DUMMY 214
+Pièce apogée
+Pièce roi chass.
+Coupon
+Coupon gourmet
+Ticket Requin
+DUMMY 132
+DUMMY 133
+Diplôme Thunderclap
+DUMMY
+DUMMY
+DUMMY 134
+Lame sombre
+Coupon-médaille L
+Griffe de lion
+Sceau conquérant
+DUMMY 135
+Récompense
+DUMMY 136
+Pattes-de-chat
+J. reflet aqua
+J. flèche solaire
+Joyau de sang
+Joyau Lazurite
+J. paralysie 1
+J. paralysie 2
+Joyau ardeur 1
+Joyau ardeur 2
+Joyau ténacité 1
+Joyau fermeté 1
+Joyau antidote 1
+Joyau antidote 2
+Joyau traqueur 1
+Joyau rôdeur 1
+Joyau ninja 1
+Joyau vitalité 1
+Joyau récup. 1
+Joyau récup. 2
+Joyau rasoir 1
+Joyau rasoir 3
+Joyau artisan 2
+Joyau artisan 3
+Joyau escrim. 1
+Joyau escrim. 3
+Joyau expert 1
+Joyau expert 2
+Joyau expert 3
+Joyau pilleur 1
+Joyau mur fer 1
+Joyau mur fer 2
+Joyau bouclier 1
+Joyau bouclier 2
+J. charge rap. 1
+J. charge rap. 2
+J. absorbeur 1
+J. absorbeur 3
+J. tir puiss. 1
+J. tir puiss. 3
+Joyau perçant 1
+Joyau perçant 3
+Joyau plomb 1
+Joyau plomb 3
+J. bonus tir 1
+J. bonus tir 2
+J. bonus prc. 1
+DUMMY 137
+J.bonus plomb 1
+J. bonus expl. 1
+J. bonus frag 1
+J. infirmant 1
+J. infirmant 2
+Joyau élément 1
+Joyau élément 3
+J. bombardier 1
+DUMMY 138
+Joyau repu 1
+J. métabolisme 1
+Joyau attaque 1
+Joyau attaque 2
+Joyau attaque 3
+Joyau défense 1
+Joyau défense 2
+J. projection 1
+Joyau asile 1
+Joyau bouchon 1
+Joyau bouchon 3
+Joyau alarme 1
+Joyau amitié 1
+Joyau amitié 2
+J. transport 1
+Joyau feu 1
+Joyau eau 1
+Joyau glace 1
+Joyau foudre 1
+Joyau dragon 1
+Joyau chaleur 1
+Joyau froid 1
+Joyau vent 1
+Joyau vent 2
+DUMMY 139
+Joyau collecte 1
+Joyau Enchaîn. 1
+Joyau béni 1
+Joyau destin 1
+Joyau destin 3
+DUMMY 140
+J. psychique 1
+Joyau remède 1
+Joyau remède 2
+J. professeur 1
+Joyau usine 1
+Joyau évasion 1
+Joyau évasion 2
+J. potentiel 1
+J. potentiel 2
+Joyau durable 1
+Joyau sprinter 1
+Joyau sprinter 3
+Joyau capacité 2
+Joyau capacité 3
+Joyau sniper 1
+Joyau glouton 1
+Joyau glouton 3
+J. découpeur 1
+J. découpeur 3
+Joyau appui 1
+J. tectonique 1
+DUMMY 141
+Joyau de saut 1
+DUMMY 142
+Joyau dégaine 1
+Joyau dégaine 2
+J. m. piégeur 1
+Joyau physique 1
+Joyau physique 2
+Joyau capture 1
+Joyau capture 3
+J. perception 1
+Joyau chargeur 1
+Joyau chargeur 3
+J. air frais 1
+Joyau digue 1
+Joyau nageur 1
+Joyau plongeur 1
+Jouyau tactique 1
+Jouyau tactique 3
+J. résistance 1
+J. libération 2
+J. catalyste 3
+Joyau courage 1
+Joyau courage 2
+Joyau salve 1
+Joyau salve 3
+Joyau bousier 1
+Joyau torche 1
+Pas de masque
+BBQ avec masque
+Aigui ac masque
+Retour ac masque
+Mn Poisseuse
+DUMMY 143
+Wyv. volants 1
+Wyv. volants 2
+Wyv. volants 3
+Wyv. aviaires 1
+Wyv. aviaires 2
+Wyv. brutaux 1
+Wyv. brutaux 2
+Wyv. brutaux 3
+Leviathans 1
+Leviathans 2
+Leviathans 3
+Wyv. à crocs 1
+Wyv. à crocs 2
+Bêtes à crocs
+Invalid Message (DUMMY 144)
+Wyverns nageurs
+Dragons anciens 1
+Dragons anciens 2
+Dragons anciens 3
+Lyniens
+Neopteron
+herbivores 1
+herbivores 2
+Deviljho
+Brachydios
+Dire Miralis
+Plesioth 1
+Plesioth 2
+Déodorant
+Sauteur empereur
+Os dragon ancien
+DUMMY 145
+Cristal pur
+Orbe armure
+Pelage Lagiacrus
+DUMMY 146
+Gueule cauchemar
+DUMMY 147
+DUMMY 148
+DUMMY 149
+Enduit poisse
+DUMMY 150
+Grillon fleuri
+Poinq. Narga S.
+DUMMY 151
+Poinq. Narg V.
+DUMMY 152
+Cortex Agnaktor
+Pelage infect
+Poche cryo
+Poche crue
+Essence monstre
+DUMMY 153
+Os massif
+DUMMY 154
+Peau prisée
+DUMMY 155
+DUMMY 156
+Lancethon
+Peau Nargacuga+
+Rasoir Narga
+Ticket AL
+Ticket luxe AL
+Ticket bronzze AL
+Ticket argent AL
+Ticket or AL
+Ticket extra AL
+DUMMY 157
+DUMMY 158
+Papillon pucelle
+DUMMY 159
+DUMMY 160
+DUMMY 161
+DUMMY 162
+DUMMY 163
+Ticket ami
+DUMMY 164
+Durcorne Lagia
+DUMMY 165
+DUMMY 166
+DUMMY 167
+Maïs-maous
+DUMMY 210
+DUMMY 212
+Déf. Bullfango
+DUMMY 168
+DUMMY 169
+DUMMY 170
+Scara-papillon
+DUMMY 171
+DUMMY 172
+Durqueue Diablos
+Fouet Barroth
+DUMMY 173
+DUMMY 174
+DUMMY 175
+Plèvre brûlante
+DUMMY 176
+Cour. armoiries
+Armoiries royal.
+Cour. des déchus
+Fossil géant
+DUMMY 177
+Fouet Ludroth R.
+Éclat Mohran
+Cuiroc Mohran
+Suratt. Mohran
+Aile Rathalos
+Palmure Plesioth
+Pal. Plesio dure
+Poisson
+DUMMY 178
+DUMMY 179
+Petit œuf en or
+Pièce en bronze
+Pièce d'argent
+Pièce d'or
+Fragment étincelant
+Tête Plesioth
+Super tête Ples
+Pièce bêtes
+Pièce volants
+Pièce nageurs
+Pièce brutaux
+Poupée (rouge)
+Poupée (bleue)
+Poupée (verte)
+Poupée (blanche)
+Pioche lisse
+Croc lunaire
+Écaille luisante
+DUMMY 180
+DUMMY 181
+DUMMY 182
+DUMMY 183
+DUMMY 184
+DUMMY 185
+DUMMY 186
+DUMMY 187
+DUMMY 188
+DUMMY 189
+DUMMY 190
+DUMMY 191
+Crâne robuste
+Patte savoureuse
+Cornemuse Peco
+Crinière-houle
+Langue Volvidon
+Boue de qualité
+DUMMY 192
+DUMMY 193
+Côtes Rathian
+Foie tendre
+Côtes Rathian R.
+Écaille géante
+Côtes Rathalos
+Plesioth extra
+Cœur Diablos
+Poche somnifère
+Obsidienne large
+Truffe Duram
+DUMMY 194
+Tête Zinogre
+DUMMY 195
+Œil Nargacuga
+Écaille céleste
+Écaille albâtre
+Ventre glouton
+DUMMY 196
+DUMMY 197
+DUMMY 198
+DUMMY 199
+DUMMY 200
+DUMMY 201
+DUMMY 202
+DUMMY 203
+DUMMY 204
+DUMMY 205
+Viande excquise
+DUMMY
+Formule top secrète
+Dipôme Flashbolt
+DUMMY 207
+DUMMY
+Gratitude capitaine
+Crâne de hadès
+DUMMY
+Couronne de gloire
+DUMMY
+DUMMY
+Coupon-médaille G
+Épée de l'est
+DUMMY
+DUMMY
+Ticket miniature
+Âme brutale
+DUMMY 220
+Wyv. volants 4
+Wyv. volants 5
+J. assurance 1
+Joyau stérile 1
+J. aseptique 1
+Joyau brasier 1
+Joyau brasier 2
+Joyau flot 1
+Joyau flot 2
+Joyau éclair 1
+Joyau éclair 2
+Joyau givre 1
+Joyau givre 2
+Joyau dragon 1
+Joyau dragon 2
+J. attendris. 1
+J. attendris. 3
+J. destructeur 1
+J. destructeur 3
+J. autorité 1
+J. autorité 2
+Joyau KO 1
+Joyau drainage 1
+Joyau drainage 2
+Joyau sonore 1
+J. artillerie 1
+J. résistance 3
+Joyau anti-feu 1
+Joyau anti-eau 1
+J. anti-foudre 1
+J. anti-glace 1
+J. anti-dragon 1
+J. rengainage 1
+J. rengainage 2
+J. revigorant 1
+J. revigorant 2
+Joyau ranger 1
+J. bonus tran. 1
+J. end. para. 1
+J. end. para. 2
+J. end. som. 1
+J. end. poison 1
+J. end. énerg. 1
+J. end. énerg. 2
+J. end. càc 1
+J. end. épuis. 1
+Joyau digue 2
+Joyau bravoure 1
+Joyau bravoure 2
+J. carnivore 1
+J. carnassier 1
+Joyau esquive 1
+Joyau glissade 1
+Joyau abeille 1
+Joyau ruche 1
+Joyau biologie 1
+Joyau microbio 1
+Joyau courage 1
+Joyau courage 2
+Joyau parfait 1
+Joyau parfait 2
+Joyau stable 1
+Joyau stable 3
+Joyau poisson 1
+Joyau poisson 2
+Joyau joueur 1
+Joyau moral 1
+Joyau leader 1
+Joyau leader 2
+Poussière de vie
+Joyau KO 2
+Durcorne Diablos
+Quartz fantôme
+Croc broyeur
+Éclalune trouble
+Peau volumineuse
+Croc précieux
+Poisson masqué
+Fleur crépuscule
+Aiguille platine
+Croc minedor
+Filon or Wyvern
+Joyau charme 1
+Insecte draco
+Snack de Tanzia
+J. bonus pois. 1
+J. end. poisse 1

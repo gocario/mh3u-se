@@ -1,0 +1,1532 @@
+
+Book of Combos 1
+Book of Combos 2
+Book of Combos 3
+Book of Combos 4
+Book of Combos 5
+Organizer Guide
+Pack Rat Guide
+Potion
+Mega Potion
+Nutrients
+Mega Nutrients
+Antidote
+Immunizer
+Dash Juice
+Mega Dash Juice
+Demondrug
+Mega Demondrug
+Might Pill
+Armorskin
+Mega Armorskin
+Adamant Pill
+Cool Drink
+Hot Drink
+Cleanser
+Psychoserum
+Herbal Medicine
+Max Potion
+Ancient Potion
+Catalyst
+Energy Drink
+Air Philter
+Mega Air Philter
+Gunpowder
+Lifecrystals
+Lifepowder
+Mystery Charm
+Shining Charm
+Timeworn Charm
+Enduring Charm
+Powercharm
+Powertalon
+Armorcharm
+Armortalon
+Tranquilizer
+Raw Meat
+Poisoned Meat
+Tinged Meat
+Durgged Meat
+Rare Steak
+Well-done Steak
+Burnt Meat
+Hot Meat
+Chilled Meat
+Pink Liver
+Ethnic Wyvrnmeat
+Boomerang
+Throwing Knife
+Poison Knife
+Slee Knife
+Paralysis Knife
+Tranq Knife
+Bomb Casing
+Paintball
+Flash Bomb
+Sonic Bomb
+Dung
+Super-sized Dung
+Fertile Mud
+Dung Bomb
+Smoke Bomb
+Poison Smoke Bmb
+Farcaster
+Tranq Bomb
+Oxygen Supply
+Spider Web
+Net
+Trap Tool
+Pitfall Trap
+Shock Trap
+Small Barrel
+Large Barrel
+Barrel Bomb S
+Barrel Bomb S +
+Barrel Bomb L
+Barrel Bomb L +
+Bounce Bomb
+Bounce Bomb +
+Felvine Bomb
+Huskberry
+Bone Husk S
+Bone Husk L
+Normal S Lv1
+Normal S Lv2
+NOrmal S Lv3
+Pierce S Lv1
+Pierce S Lv2
+Pierce S Lv3
+Pellet S Lv1
+Pellet S Lv2
+Pellet S Lv3
+Crag S Lv1
+Crag S Lv2
+Crag S Lv3
+Clust S Lv1
+Clust S Lv2
+Clust S Lv3
+Flaming S
+Water S
+Thunder S
+Freeze S
+Draong S
+Recov S Lv1
+Recov S Lv2
+Poison S Lv1
+Poison S Lv2
+Para S Lv1
+Para S Lv2
+Sleep S Lv1
+Sleep S Lv2
+Tranq S
+Paint S
+Demon S
+DUMMY 1
+Armor S
+DUMMY 2
+Sub S Lv1
+Sub S Lv2
+Exhaust S Lv1
+Exhaust S Lv2
+Slicing S
+DUMMY 3
+DUMMY 4
+WyvernFire
+UW Ballista Ammo
+(No Coating)
+Empty Phial
+Power Coating
+C. Range Coating
+Poison Coating
+Para Coating
+Sleep Coating
+Exhaust Coating
+Paint Coating
+DUMMY 5
+Worm
+DUMMY 6
+Mega Fishing Fly
+Frog
+Whetfish Bait
+Shushifish Bait
+Tuna Bait
+DUMMY 7
+Goldenfish Bait
+Burst Bait
+DUMMY 8
+Old Pickaxe
+Iron Pickaxe
+Mega Pickaxe
+Old Bug Net
+Bug Net
+Mega Bug Net
+Fishing Harpoon
+Mega Harpoon
+BBQ Spit
+Double BBQ Spit
+Whetstone
+Binoculars
+Carbage
+Field Horn
+Health Horn
+Antidote Horn
+Demon Horn
+Armor Horn
+Honey
+Herb
+Antidote Herb
+Fire Herb
+DUMMY 9
+Ivy
+Sleep Herb
+Sap Plant
+Felvine
+Cactus Flower
+Airweed
+Hot Pepper
+DUMMY 10
+Blue Mushroom
+Nitroshroom
+Parashroom
+Toadstool
+Exciteshroom
+DUMMY 11
+Dragon Toadstool
+Bindshroom
+Paintberry
+Might Seed
+Adamant Seed
+Dragonfell Berry
+Scatternut
+Needleberry
+DUMMY 12
+Bomberry
+DUMMY 13
+DUMMY 14
+DUMMY 15
+DUMMY 16
+Nulberry
+Bumblepumpkin
+Broken Shell
+Black Pearl
+Jumbo Pearl
+Stone
+Iron Ore
+Earth Crystal
+Machalite Ore
+Dragonite Ore
+Pelagicite Ore
+DUMMY 17
+DUMMY 18
+DUMMY 19
+Carbalite Ore
+Eltalite Ore
+Fucium Ore
+Meldspar Ore
+Bathycite Ore
+Lava Nugget
+Firestone
+Firecell Stone
+Allfire Stone
+Lightcrystal
+Isisium
+DUMMY 20
+Gracium
+Antiseptic Stone
+Ice Crystal
+Armor Stone
+Armor Sphere
+Armor Sphere +
+Adv Armor Sphere
+Hrd Armor Sphere
+Hvy Armor Sphere
+DUMMY 21
+Tru Armor Sphere
+Whetfish
+Sushifish
+Sleepyfish
+Pin Tuna
+Popfish
+Scatterfish
+Burst Arowana
+Bomb Arowana
+Glutton Tuna
+Small Goldenfish
+Wanchovy
+DUMMY 22
+Blue Cutthroat
+Humspun Conch
+DUMMY 23
+Insect Husk
+Yambug
+Bughopper
+DUMMY 215
+Stinkhopper
+Snakebee Larva
+Godbug
+Bitterbug
+Flashbug
+Thunderbug
+Fulgurbug
+Carpenterbug
+Killer Beetle
+Hercudrome
+DUMMY 24
+King Scarab
+Rare Scarab
+DUMMY 25
+Flutterfly
+DUMMY 26
+Bomb Sac
+Screamer
+Poison Sac
+Toxin Sac
+DUMMY 27
+Paralysis Sac
+Omniplegia Sac
+Sleep Sac
+Coma Sec
+Flame Sac
+Inferno Sac
+Conflagrant Sac
+Aqua Sac
+Torrent Sac
+DUMMY 217
+Thunder Sac
+Lightning Sac
+Frost Sac
+Freezer Sac
+Dash Extract
+Pale Extract
+Monster Bone S
+Monster Bone M
+Monster Bone L
+Mystery Bone
+Unknown Skull
+Bone
+Avian Shoutbone
+DUMMY 218
+Monster Bone +
+Monster Keenbone
+Monster hardbone
+Monster slogbne
+Avian Finebone
+Jumbo Bone
+Stoutbone
+Dragonbone Relic
+Wyvern Fang
+Wyvern Claw
+Wyvern Stone
+Lrg Wyvern Stone
+Bird Wyvern Gem
+Fey Wyvern Gem
+ElderDragonBlood
+DUMMY 28
+Azure Dragongem
+Azure Drgnsphire
+Beautiful Scale
+Shining Starfish
+Armorfish Morsel
+Fine Pelt
+Power Paddle
+Curved Fang
+Dragonbone Piece
+Abalone Piece
+Fossil Piece
+Stunning Quill
+Saturnian
+Mystic Narwhal
+Perfect Paddle
+Moonlight Fang
+Glittering Scale
+Giant Skull
+Atlantis Crab
+Queen Needle
+Ancient Skin Oil
+Flamboyant Quill
+Eldest Saturnian
+Queen's Spirit
+Vermilion Scale
+Sea-King's Scale
+Odd Egg
+Saturnian Trap
+BugMaker! Pro
+Funky Pheromones
+Shroom Germ
+Shroom Germ +
+Bizzy Bees
+Fish Finder
+Treasure Tracker
+Spare Spear
+Pittance Fang
+Fortune Fang
+Gold Needle
+Wyverngold
+Pirate Booty
+Steel Egg
+Silver Egg
+Golden Egg
+Kelbi Horn Objet
+Twstd Horn Objet
+MohranFang Objet
+Poogie
+Eggie Poogie
+Rath Poogie
+Sandstone Plant
+Marshland Plant
+Snowflake Plant
+Primshroom Lamp
+Qurupeco Lamp
+Sirensea Lamp
+Oceanic Fountain
+Bubbly Fountain
+Magma Fountain
+Iron Figure
+Machalite Figure
+Dragonite Figure
+Model Sandskiff
+Model Airship
+Model Poogieship
+Guildie (Red)
+Guildie (Green)
+Guildie (Blue)
+Great Poogi
+Incomplete Crown
+Crown's Gemstone
+Dazzling Crown
+Prize Gold Sword
+Golden Medallion
+Kelbi Horn
+Blue Kelbi Horn
+Warm Pelt
+High-qualty Pelt
+Gargwa Feather
+DUMMY 29
+DUMMY 30
+Anteka Antler
+DUMMY 31
+Bnahabra Shell
+DUMMY 32
+Bnaha Carapace
+Bnahabra Wing
+DUMMY 33
+Bnahabra Cutwing
+Bnahabra Spine
+Altaroth Jaw
+DUMMY 34
+Altaroth Stomach
+Prized Stomach
+Quality Sac
+Bullfango Pelt
+DUMMY 35
+Bullfango Head
+Monster Fluid
+Monster Broth
+Rhenoplos Shell
+Rhenoplos Bone
+Rhenoplos Scalp
+DUMMY 36
+Rheno Carapace
+DUMMY 219
+Slagtoth Hide+
+DUMMY 37
+Big Fin
+DUMMY 38
+Quality Fin
+Giant Fin
+Sharpened Fang
+Velvety Hide
+Sharqskin
+Jaggi Scale
+Jaggi Scale +
+DUMMY 39
+Jaggi Hide
+DUMMY 40
+DUMMY 41
+Bird Wyvern Fang
+G. Jaggi Hide
+G. Jaggi Hide +
+Great Jaggi Piel
+G. Jaggi Claw
+G. Jaggi Claw +
+DUMMY 42
+King's Frill
+Imperial Frill
+Great Jaggi Head
+DUMMY 43
+Baggi Hide
+Baggi Scale
+Baggi Scale +
+DUMMY 44
+G. Baggi Hide
+G. Baggi Hide +
+Great Baggi Piel
+G. Baggi Claw
+G. Baggi Claw +
+DUMMY 45
+King's Crest
+Imperial Crest
+Wroggi Scale
+Wroggi Scale +
+DUMMY 46
+Wroggi Hide
+Wroggi Fang
+G. Wroggi Hide
+G. Wroggi Piel
+G. Wroggi Hide +
+G. Wroggi Brace
+DUMMY 47
+G. Wroggi Brace +
+King's Beak
+Imperial Beak
+Qurupeco Scale
+Qurupeco Scale +
+Qurupeco Shard
+Qurupeco Feather
+Lustrous Feather
+Qurupeco Wing
+Peco Fellwing
+Vivid Fellwing
+Strange Beak
+Wonderful Beak
+Alluring Beak
+Flintstone
+Quality Flint
+C. Peco Scale +
+C. Peco Shard
+C. Peco Wing
+C. Peco Fellwing
+Voltstone
+High Voltstone
+Hydro Hide
+Hydro Hide +
+DUMMY 48
+Immature Sponge
+Quality Sponge
+Spongy Hide
+Spongy Hide +
+Spongy Piel
+R. Ludroth Scale
+R. Ludroth Scale +
+R. Ludroth Shard
+R. Ludroth Claw
+R. Ludroth Claw +
+R. Ludroth Talon
+R. Ludroth Crest
+R. Ludroth Crest +
+Chic Crest
+R. Ludroth Tail
+Plum Spongy Hide
+Plum Spongy Piel
+P. Ludroth Scale +
+P. Ludroth Shard
+P. Ludroth Claw +
+P. Ludroth Talon
+Barroth Shell
+Barroth Carapace
+Barroth Cortex
+Barroth Ridge
+Barroth Ridge +
+Barroth Chine
+Barroth Claw
+Barroth Claw +
+Barroth Talon
+Barroth Scalp
+Barroth Crown
+Barroth Tail
+J. Barr Carapace
+J. Barroth Cortex
+J. Barroth Ridge +
+J. Barroth Chine
+J. Barroth Claw +
+J. Barroth Talon
+J. Barroth Scale
+J. Barroth Crown
+J. Barroth Tail
+J. Barroth Lash
+Frozen Glob
+DUMMY 49
+Gobul Hide
+Gobul Hide +
+Gobul Piel
+Gobul Fin
+Gobul Fin +
+Fine Gobul Fin
+Gobul Spike
+Gobul Spike +
+Gobul Surspike
+Gobul Whisker
+Gobul Kingwhiskr
+Gobul Lantern
+Gobul Lantern +
+Gobul Beacon
+Rathian Scale
+Rathian Scale +
+Rathian Shard
+Rathian Shell
+Rathian Carapace
+Rathian Cortex
+Rathian Webbing
+Rathian Spike
+Rathian Spike +
+Rathian Surspike
+Rathian Plate
+Rathian Mantle
+Rathian Ruby
+DUMMY 50
+P. Rathian Scale +
+P. Rathian Shard
+P. Rath Carapace
+P. Rathian Cortex
+G. Rathian Shard
+G. Rathian Cortex
+G. Rath Surspike
+Rathalos Scale
+Rathalos Scale +
+Rathalos Shard
+Rathalos Shell
+Rathalos Carapace
+Rathalos Cortex
+Rathalos Webbing
+Rathalos Fellwing
+Rathalos Tail
+Rathalos Lash
+Rathalos Plate
+Rathalos Mantle
+Rathalos Ruby
+Rath Talon
+Rath Ripper
+Rath Marrow
+Rath Medulla
+Rath Gleem
+A. Rath Scale +
+A. Rathalos Shard
+A. Rath Carapace
+A. Rath Cortex
+A. Rathalos Tail
+A. Rathalos Lash
+A. Rathalos Wing
+S. Rathalos Shard
+S. Rath Cortex
+S. Rathalos Lash
+DUMMY 215
+DUMMY 51
+DUMMY 52
+Gigginox Hide
+Gigginox Hide +
+Gigginox Piel
+Uncanny Hide
+Uncanny Hide +
+Gigginox Claw
+Gigginox Claw +
+Gigginox Talon
+DUMMY 53
+DUMMY 54
+Fearsome Maw
+Venom Gland
+Grim Venom Gland
+Foul Venom Gland
+B. Giggi Hide +
+B. Giggi Piel
+B. Giggi Claw +
+B. Giggi Talon
+Lagiacrus Scale
+Lagiacrus Scale +
+Lagiacrus Shard
+Shell Shocker
+Shell Shocker +
+Deathly Shocker
+Lagiacrus Hide
+Lagiacrus Hide +
+Lagiacrus Claw
+Lagiacrus Claw +
+Lagiacrus Talon
+Lagiacrus Talon
+Lagiacrus Flail
+Lagiacrus Horn
+Lagiacrus Horn +
+Lagia Sapphire
+Lagiacrus Mantle
+Lagiacrus Plate
+I. Lagi Scale +
+I. Lagi Shard
+I. Lagi Shocker +
+I. Lagi D-Shocker
+I. Lagi Hide +
+I. Lagi Piel
+DUMMY 55
+DUMMY 56
+DUMMY 57
+DUMMY 58
+I. Lagi Horn +
+I. Lagi Hardhorn
+DUMMY 59
+DUMMY 60
+DUMMY 61
+A. Lagi Shard
+A. Lagi D-Shocker
+A. Lagi Piel
+DUMMY 62
+DUMMY 63
+A. Lagi Hardhorn
+A. Lagi Dynamo
+Barioth Shell
+Barioth Carapace
+Barioth Cortex
+Barioth Pelt
+Barioth Pelt +
+Barioth Fur
+Barioth Claw
+Barioth Claw +
+Barioth Talon
+Barioth Spike
+DUMMY 64
+Barioth Tail
+Barioth Lash
+Amber Tusks
+Amber Tusks +
+Hvy Amber Tusks
+S. Bari Carapace
+S. Barioth Cortex
+S. Barioth Pelt +
+S. Barioth Fur
+S. Barioth Claw +
+S. Barioth Talon
+S. Barioth Tail
+S. Barioth Lash
+Indigo Tusks +
+Hvy Indigo Tusks
+Rugged Pleura
+Rugged Pleura +
+Diablos Shell
+Diablos Carapace
+Diablos Cortex
+Diablos Ridge
+Diablos Ridge +
+Diablos Chine
+Diablos Tailcase
+DUMMY 65
+Diablos Fang
+Twisted Horn
+Majestic Horn
+Stout Horn
+Diablos Marrow
+Diablos Medulla
+B. Diab Carapace
+B. Diablos Cortex
+B. Diablos Ridge +
+B. Diablos Chine
+DUMMY 66
+DUMMY 67
+Blackcurl Horn
+Blackcurl Horn +
+Uragaan Scale
+Uragaan Scale +
+Uragaan Shard
+Uragaan Shell
+Uragaan Carapace
+Uragaan Cortex
+Uragaan Jaw
+Uragaan Jaw +
+Uragaan Scute
+Uragaan Scute +
+Uragaan Marrow
+Uragaan Ruby
+Uragaan Pallium
+S. Uragaan Scale +
+S. Uragaan Shard
+S. Urag Carapace
+S. Uragaan Cortex
+S. Uragaan Maw
+S. Uragaan Jaw +
+S. Uragaan Scute 
+S. Uragaan Scute +
+Uroktor Scale
+Uragaan Scale +
+Supple Piel
+Agnaktor Scale
+DUMMY 68
+Agnaktor Shell
+Agnak Carapace
+Agnaktor Hide
+Agnaktor Hide +
+Agnaktor Piel
+Agnaktor Claw
+Agnaktor Claw +
+Agnaktor Talon
+Agnaktor Fin
+Agnaktor Fin +
+Fine Agnak Fin
+Agnaktor Beak
+DUMMY 69
+Agnaktor Tail
+DUMMY 70
+Scalding Pleura +
+Scorching Pleura
+G. Agnak Carapace
+G. Agnak Cortex
+G. Agnak Hide +
+G. Agnak Piel
+G. Agnak Claw +
+G. Agnak Talon
+G. Agnak Fin +
+Fine G. Agnak Fin
+G. Agnak Beak
+DUMMY 71
+G. Agnak Tail
+DUMMY 72
+Dewy Pleura +
+Drenched Pleura
+Ceadeus Scale
+Ceadeus Hide
+Ceadeus Fur
+Ceadeus Tail
+Crooked Horn
+Luminous Organ
+Deep Dragongem
+G. Ceadeus Shard
+G. Ceadeus Coat
+G. Ceadeus Fur
+DUMMY 73
+Crooked Hardhorn
+DUMMY 74
+Dark Dragongem
+DUMMY 75
+Mohran Scale +
+DUMMY 76
+Mohran Carapace
+DUMMY 77
+Mohran Brace +
+DUMMY 209
+Sturdy Fang +
+Earth Dragongem
+DUMMY 78
+H. Jhen Shard
+DUMMY 79
+H. Jhen Rocksin
+DUMMY 80
+H. Jhen Allbrace
+DUMMY 81
+Deific Fang
+Earth Drgnsphire
+Deviljho Scale
+Deviljho Shard
+Deviljho Hide
+Deviljho Coat
+Deviljho Fang
+Vile Fang
+Deviljho Talon
+Deviljho Ripper
+Deviljho Scale
+DUMMY 82
+Deviljho Tail
+Deviljho Flail
+Deviljho Saliva
+Black Blood
+Deviljho Gem
+Deviljho Crook
+Alatreon Scute
+Alatreon Pallium
+Alatreon Plate
+Alatreon Mantle
+Alatreon Talon
+Alatreon Ripper
+Alatreon Webbing
+Alatreo Direwing
+Alatreon Tail
+Alatreo Diretail
+Brkn Skypiercer
+DUMMY 83
+Skypiercer
+Skyswayer
+Arzuros Pelt
+Arzuros Pelt +
+DUMMY 84
+Arzuros Shell
+Arzuros Carapace
+Arzuros Cortex
+Arzuros Brace
+Arzuros Brace +
+Arzuros Allbrace
+Lagombi Pelt
+Lagombi Pelt +
+Lagombi Fur
+Lagombi Ear
+Lagombi Ear +
+Lagombi Auricle
+Lagombi Plastron
+Lagombi Plastron +
+DUMMY 85
+Lagombi Claw
+Lagombi Claw +
+DUMMY 86
+Volvidon Shell
+Volvi Carapace
+Volvidon Cortex
+Volvidon Claw
+Volvidon Claw +
+Volvidon Talon
+Volvi Rickrack
+DUMMY 87
+Nibelsnarf Shell
+Nibel Carapace
+Nibel Cortex
+Nibelsnarf Hide
+Nibelsnarf Hide +
+Nibelsnarf Piel
+Nibelsnarf Claw
+Nibelsnarf Claw +
+Nibelsnarf Talon
+Nibelsnarf Scalp
+DUMMY 88
+Vivid Fluid
+Brilliant Fluid
+Dazzling Fluid
+DUMMY 89
+Zinogre Carapace
+Zinogre Cortex
+DUMMY 90
+Zinogre Shocker +
+Zin Eletrofur +
+DUMMY 91
+Zinogre Horn +
+Zinogre Hardhorn
+DUMMY 92
+Zinogre Claw +
+Zinogre Talon
+Zinogre Tail
+Zinogre Lash
+DUMMY 94
+Zin Eletrofur
+Zin D-Shocker
+DUMMY 208
+Zinogre Jasper
+Zin Skymerald
+S. Zin Cortex
+S. Zin Dragonhair
+S. Zin Hardhorn
+S. Zinogre Talon
+S. Zinogre Lash
+S. Zin Dragnshell
+S. Zin Skymerald
+Nargacuga Scale +
+Nargacuga Shard
+Nargacuga Mantle
+DUMMY 95
+Nargacuga Fur
+Nargacuga Tail
+Nargacuga Lash
+Narga Tailspike
+Narga Tailspear
+DUMMY 96
+Narga Razor +
+Nargacuga Fang +
+Hvy Narga Fang
+Narga Medulla
+DUMMY 97
+G. Narga Shard
+DUMMY 98
+G. Narga Dapples
+DUMMY 99
+G. Narga Razor +
+DUMMY 100
+Hvy G. Narga Fang
+L. Narga Shard
+L. Narha Dapples
+L. Narga Razor
+Hvy L. Narga Fang
+Duramboros Shell
+Duram Carapace
+Duram Cortex
+Duram Mossplate
+Hard Mossplate
+Heavy Mossplate
+Duramboros Hump
+Marbled Hump
+Duram Tailcase
+Duram Tailcase +
+Duram Hardtail
+Duramboros Horn
+Duramboros Horn +
+Duram Hardhorn
+Duram Tailbone
+Duram Sacrum
+Durambolite
+R. Duram Shell
+R. Duram Plate
+DUMMY 101
+R. Duram Hardtail
+DUMMY 102
+DUMMY 103
+Lrg Lobstershell
+DUMMY 105
+Plesioth Fang +
+Hvy Plesio Fang
+Plesioth Scale +
+Plesioth Shard
+Plesioth Fin +
+Fine Plesio Fin
+DUMMY 105
+G. Plesio Shard
+DUMMY 107
+Fine G. Plesi Fin
+Brach Carapace
+Brach Cortex
+Brach Ebonshell
+Brach Ebonshell +
+DUMMY 108
+DUMMY 109
+Brach Scalp
+Brach Scalp +
+Mystery Slime
+Glowing Slime
+Brach Pounder
+Brach Pounder +
+Brachydios Tail
+DUMMY 110
+Brachydios Gem
+Brach Pallium
+Miralis Scale
+Miralis Fireback
+Miralis Fireclaw
+DUMMY 111
+DUMMY 112
+Miralis Evil Eye
+DUMMY 113
+Miralis Hellwing
+DUMMY 114
+DUMMY 115
+Miralis Smelter
+Immortal Heart
+DUMMY 116
+Gushing Magma
+Dire Dragongem
+Rustshard
+Ancient Shard
+Rusted Fragment
+Large Fragment
+Slender Fragment
+Long Fragment
+Map
+First-aid Med
+Ration
+DUMMY
+Mini Whetstone
+EZ Shock Trap
+EZ Flash Bomb
+EZ Sonic Bomb
+EZ Max Potion
+EZ Pitfall Trap
+Mini Oxy Supply
+EZ Barrel Bomb L
+Ballista Ammo
+Ballista Binder
+DUMMY 117
+Cannon Ammo
+Anti-dragon Bomb
+Torch
+Paw Pass Ticket
+Royal Honey
+Unique Mushroom
+Choice Mushroom
+Ripened Mushroom
+Great Shroom
+Super Sprout
+DUMMY 118
+DUMMY 119
+Silverfish
+DUMMY 120
+DUMMY 121
+Goldenfish
+Royal Rhino
+Divine Rhino
+Silver Cricket
+Gold Cricket
+Auristone Piece
+Auristone Chunk
+Balmstone Piece
+Balmstone Chunk
+Crystal Bone
+Golden Bone
+Bloodstone
+Deep Bloodstone
+Coal
+Volatile Coal
+Wyvern Egg
+Herbivore Egg
+Gargwa Egg
+Gold Gargwa Egg
+DUMMY 206
+Powderstone
+Gargwa Guano
+White Liver
+Slagtoth Oil
+Popo Tongue
+Secret Stash
+Round Acorn
+Fine Stomach
+Luminous Stomach
+Giggi Extract
+Monster Guts
+Red Coral Stone
+Wyvern Tear
+Lrg Wyvern Tear
+Beast Tear
+Lrg Beast Tear
+Bird Coin
+DUMMY 122
+DUMMY 123
+DUMMY 124
+DUMMY 125
+DUMMY 126
+DUMMY 127
+Leviathan Coin
+DUMMY 128
+DUMMY 129
+DUMMY 130
+DUMMY 131
+DUMMY 214
+Pinnacle Coin
+Hunter King Coin
+Voucher
+Gourmet Voucher
+Sharq Ticket
+DUMMY 132
+DUMMY 133
+Thunderclap Diploma
+DUMMY
+DUMMY
+DUMMY 134
+Shadowed Edge
+Medal Voucher L
+Lion's Claw
+Conqueror's Seal
+DUMMY 135
+Commendation
+DMMY 136
+Pawprint Stamp
+Aquaglow Jewel
+Sunspire Jewel
+Bloodrun Jewel
+Lazurite Jewel
+Paralysis Jwl 1
+Paralysis Jwl 2
+Pep Jewel 1
+Pep Jewel 2
+Steadfast Jwl 1
+Standfast Jwl 1
+Antidote Jewel 1
+Antidote Jewel 2
+Tracker Jewel 1
+Trekker Jewel 1
+Ninja Jewel 1
+Vitality Jewel 1
+Recovery Jewel 1
+Recovery Jewel 2
+Razor Jewel 1
+Razor Jewel 3
+Handicraft Jwl 2
+Handicarft Jwl 3
+Fencer Jewel 1
+Fencer Jewel 3
+Expert Jewel 1
+Expert Jewel 2
+Expert Jewel 3
+Grinder Jewel 1
+Ironwall Jewel 1
+Ironwall Jewel 2
+Shield Jewel 1
+Shield Jewel 2
+Quickload Jwl 1
+Quickload Jwl 2
+Absorber Jewel 1
+Absorber Jewel 3
+Forceshot Jwl 1
+Forceshot Jwl 3
+Pierce Jewel 1
+Pierce Jewel 3
+Pellet Jewel 1
+Pellet Jewel 3
+ShotPlus Jewel 1
+ShotPlus Jewel 2
+PiercePlus Jwl 1
+DUMMY 137
+PelletPlus Jwl 1
+CragPlus Jewel 1
+ClustPlus Jwl 1
+Disabler Jewel 1
+Disabler Jewel 2
+Element Jewel 1
+Element Jewel 3
+Bombardier Jwl 1
+DUMMY 138
+Hungerless Jwl 1
+Metabolism Jwl 1
+Attack Jewel 1
+Attack Jewel 2
+Attack Jewel 3
+Defense Jewel 1
+Defense Jewel 2
+Protection Jwl 1
+Asylum Jewel 1
+Earplug Jewel 1
+Earplug Jewel 3
+Alarm Jewel 1
+Friendship Jwl 1
+Friendship Jwl 2
+Transportr Jwl 1
+Fire Res Jewel 1
+Water Res Jwl 1
+Ice Res Jewel 1
+ThunderRes Jwl 1
+Dragon Res Jwl 1
+Heat Res Jewel 1
+Cold Res Jewel 1
+Wind Res Jewel 1
+Wind Res Jewel 2
+DUMMY 139
+Gathering Jwl 1
+Spree Jewel 1
+Blessing Jewel 1
+Fate Jewel 1
+Fate Jewel 3
+DUMMY 140
+Psychic Jewel 1
+Medicine Jewel 1
+Medicine Jewel 2
+Professor Jwl 1
+Factory Jewel 1
+Evasion Jewel 1
+Evasion Jewel 2
+Potential Jwl 1
+Potential Jwl 2
+Enduring Jewel 1
+Sprinter Jewel 1
+Sprinter Jewel 3
+Capacity Jewel 2
+Capacity Jewel 3
+Sniper Jewel 1
+Gobbler Jewel 1
+Gobbler Jewel 3
+Carver Jewel 1
+Carver Jewel 3
+Footing Jewel 1
+Tectonic Jewel 1
+DUMMY 141
+Jumping Jewel 1
+DUMMY 142
+Draw Jewel 1
+Draw Jewel 2
+Trapmaster Jwl 1
+Physique Jewel 1
+Physique Jewel 2
+Capture Jewel 1
+Capture Jewel 3
+Perception Jwl 1
+Charger Jewel 1
+Charger Jewel 3
+Fresh Air Jwl 1
+Stopflow Jewel 1
+Swimmer Jewel 1
+Diver Jewel 1
+Gambit Jewel 1
+Gambit Jewel 3
+Resistor Jewel 1
+Release Jewel 2
+Catalyst Jewel 3
+Fortitude Jwl 1
+Fortitude Jwl 2
+Salvo Jewel 1
+Salvo Jewel 3
+Dungmaster Jwl 1
+Torchlight Jwl 1
+(No Mask)
+BBQ with Mask
+Sharpen w/ Mask
+Return via Mask
+Slime S
+DUMMY 143
+Flying Wyverns Vol 1
+Flying Wyverns Vol 2
+Flying Wyverns Vol 3
+Bird Wyverns Vol 1
+Bird Wyverns Vol 2
+Brute Wyverns Vol 1
+Brute Wyverns Vol 2
+Brute Wyverns Vol 3
+Leviathans Vol 1
+Leviathans Vol 2
+Leviathans Vol 3
+Fanged Wyverns Vol 1
+Fanged Wyverns Vol 2
+Fanged Beasts
+Invalid Message
+Piscine Wyverns
+Elder Dragons Vol 1
+Elder Dragons Vol 2
+Elder Dragons Vol 3
+Lynians
+Neopteron
+Herbivores Vol 1
+Herbivores Vol 2
+Deviljho
+Brachydios
+Dire Miralis
+Plesioth Vol 1
+Plesioth Vol 2
+Deodorant
+Emperor Hopper
+Elder Dragonbone
+DUMMY 145
+Purecrystal
+Adamant Orb
+Lagiacrus Piel
+DUMMY 146
+Nightmarish Maw
+DUMMY 147
+DUMMY 148
+DUMMY 149
+Slime Coating
+DUMMY 150
+Blossom Cricket
+L. Narg Tailspear
+DUMMY 151
+G. Narg Tailspear
+DUMMY 152
+Agnaktor Cortex
+Revolting Piel
+Cryo Sac
+Flood Sac
+Monster Essence
+DUMMY 153
+Massive Bone
+DUMMY 154
+Prized Pelt
+DUMMY 155
+DUMMY 156
+Speartuna
+Nargacuga Pelt +
+Narga Razor
+VE Ticket
+VE Deluxe Ticket
+VE Bronze Ticket
+VE Silver Ticket
+VE Golden Ticket
+VE Cosmic Ticket
+DUMMY 157
+DUMMY 158
+Maiden Butterfly
+DUMMY 159
+DUMMY 160
+DUMMY 161
+DUMMY 162
+DUMMY 163
+Chum-Chum Ticket
+DUMMY 164
+Lagia Hardhorn
+DUMMY 165
+DUMMY 166
+DUMMY 167
+Heftcorn
+DUMMY 210
+DUMMY 212
+Bullfango Tusk
+DUMMY 168
+DUMMY 169
+DUMMY 170
+Butterfly Beetle
+DUMMY 171
+DUMMY 172
+Diablos Hardtail
+Barroth Lash
+DUMMY 173
+DUMMY 174
+DUMMY 175
+Scalding Pleura
+DUMMY 176
+Crested Crown
+Royal Crest
+Realmless Crown
+Giant Fossil
+DUMMY 177
+R. Ludroth Lash
+Mohran Shard
+Mohran Rockskin
+Mohran Allbrace
+Rathalos Wing
+Plesioth Webbing
+Hrd Ples Webbing
+Fish
+DUMMY 178
+DUMMY 179
+Small Golden Egg
+Bronze Coin
+Silver Coin
+Gold Coin
+Sparkly Fragment
+Plesioth Head
+Uber Plesio Head
+Beast Coin
+Flying Coin
+Piscine Coin
+Brute Coin
+Port Gal (Red)
+Port Gal (Blue)
+Port Gal (Green)
+Port Gal (White)
+Slickaxe
+Mooncatcher Fang
+Glossy Scale
+DUMMY 180
+DUMMY 181
+DUMMY 182
+DUMMY 183
+DUMMY 184
+DUMMY 185
+DUMMY 186
+DUMMY 187
+DUMMY 188
+DUMMY 189
+DUMMY 190
+DUMMY 191
+Thick Skull
+Savory Bear Paw
+Peco Pipes
+Billowy Mane
+Volvidon Tongue
+Quality Mud Pack
+DUMMY 192
+DUMMY 193
+Rathian Loin
+Tender Liver
+P. Rathian Loin
+Supersize Scale
+Rathalos Ribs
+Prime Plesioth
+Diablos Heart
+Bag of Zs
+Large Obsidian
+Duram Truffle
+DUMMY 194
+Zinogre Head
+DUMMY 195
+Nargacuga Eye
+Celestial Scale
+Alabaster Scale
+Worldeater Belly
+DUMMY 196
+DUMMY 197
+DUMMY 198
+DUMMY 199
+DUMMY 200
+DUMMY 201
+DUMMY 202
+DUMMY 203
+DUMMY 204
+DUMMY 205
+Exquisite Meat
+DUMMY
+Top Secret Formula
+Flashbolt Diploma
+DUMMY 207
+DUMMY
+Captain's IOU
+Hades's Skull
+DUMMY
+Crown of Glory
+DUMMY
+DUMMY
+Medal Voucher G
+Far East Sword
+DUMMY
+DUMMY
+Miniature Ticket
+Fierce Soul
+DUMMY 220
+Flying Wyverns Vol 4
+Flying Wyverns Vol 5
+Def Lock Jewel 1
+Sterile Jewel 1
+Aseptic Jewel 1
+Blaze Jewel 1
+Blaze Jewel 2
+Stream Jewel 1
+Stream Jewel 2
+Bolt Jewel 1
+Bolt Jewel 2
+Frost Jewel 1
+Frost Jewel 2
+Dragon Jewel 1
+Dragon Jewel 2
+Tenderizer Jwl 1
+Tenderizer Jwl 3
+Destroyer Jwl 1
+Destroyer Jwl 3
+Throttle Jewel 1
+Throttle Jewel 2
+KO Jewel 1
+Drain Jewel 1
+Drain Jewel 2
+Sonorous Jewel 1
+Artillery Jwl 1
+Resistor Jewel 3
+Nul-Fire Jewel 1
+Nul-Water Jwl 1
+Nul-Thundr Jwl 1
+Nul-Ice Jewel 1
+Nul-Dragon Jwl 1
+Sheath Jewel 1
+Sheath Jewel 2
+Refresh Jewel 1
+Refresh Jewel 2
+Ranger Jewel 1
+SlicePlus jwl 1
+Paracoat Jewel 1
+Paracoat Jewel 2
+Sleepcoat Jwl 1
+Poisoncoat Jwl 1
+Powercoat Jwl 1
+Powercoat Jwl 2
+Rangecoat Jwl 1
+Draincoat Jwl 1
+Stopflow Jewel 2
+Guts Jewel 1
+Guts Jewel 2
+Meateater Jwl 1
+Meatlover Jwl 1
+Slider Jewel 1
+Glider Jewel 1
+Honeybee Jewel 1
+Queenbee Jewel 1
+Biology Jewel 1
+Microbio Jewel 1
+Spirit Jewel 1
+Spirit Jewel 2
+Flawless Jewel 1
+Flawless Jewel 2
+Steady Jewel 1
+Steady Jewel 3
+Fish Jewel 1
+Fish Jewel 2
+Player Jewel 1
+Morale Jewel 1
+Leader Jewel 1
+Leader Jewel 2
+Dust of Life
+KO Jewel 2
+Diablos Hardhorn
+Ghostly Quartz
+Crushing Fang
+Cloudy Moonshard
+Bulky Pelt
+Excellent Fang
+Fish with mask
+Gloamgrass Bud
+Platinum Needle
+Goldmine Fang
+Wyverngold Lode
+Charmer Jewel 1
+Dracophage Bug
+Tamzia Chips
+SlimePlus Jwl 1
+Slimecoat Jwl 1
