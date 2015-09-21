@@ -1,0 +1,10 @@
+﻿Talisman pion
+Talisman fou
+Talisman cavalier
+Talisman tour
+Talisman reine
+Talisman roi
+Talisman dragon
+Talisman héros
+Talisman légende
+Talisman divin

@@ -1,0 +1,10 @@
+Pawn Talisman
+Bishop Talisman
+Knight Talisman
+Rook Talisman
+Queen Talisman
+King Talisman
+Dragon Talisman
+Hero Talisman
+Legend Talisman
+Creator Talisman
