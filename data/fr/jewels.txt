@@ -1,0 +1,202 @@
+Joyau antidote 1
+Joyau antidote 2
+J. paralysie 1
+J. paralysie 2
+Joyau ardeur 1
+Joyau ardeur 2
+Joyau ténacité 1
+Joyau fermeté 1
+Joyau traqueur 1
+Joyau rôdeur 1
+Joyau ninja 1
+Joyau vitalité 1
+Joyau récup. 1
+Joyau récup. 2
+Joyau rasoir 1
+Joyau rasoir 3
+Joyau artisan 2
+Joyau artisan 3
+Joyau escrim. 1
+Joyau escrim. 3
+Joyau expert 1
+Joyau expert 2
+Joyau expert 3
+Joyau pilleur 1
+Joyau mur fer 1
+Joyau mur fer 2
+Joyau bouclier 1
+Joyau bouclier 2
+J. charge rap. 1
+J. charge rap. 2
+J. absorbeur 1
+J. absorbeur 3
+J. tir puiss. 1
+J. tir puiss. 3
+Joyau perçant 1
+Joyau perçant 3
+Joyau plomb 1
+Joyau plomb 3
+J. bonus tir 1
+J. bonus tir 2
+J. bonus prc. 1
+DUMMY 137
+J.bonus plomb 1
+J. bonus expl. 1
+J. bonus frag 1
+J. infirmant 1
+J. infirmant 2
+Joyau élément 1
+Joyau élément 3
+J. bombardier 1
+DUMMY 138
+Joyau repu 1
+J. métabolisme 1
+Joyau attaque 1
+Joyau attaque 2
+Joyau attaque 3
+Joyau défense 1
+Joyau défense 2
+J. projection 1
+Joyau asile 1
+Joyau bouchon 1
+Joyau bouchon 3
+Joyau alarme 1
+Joyau amitié 1
+Joyau amitié 2
+J. transport 1
+Joyau feu 1
+Joyau eau 1
+Joyau glace 1
+Joyau foudre 1
+Joyau dragon 1
+Joyau chaleur 1
+Joyau froid 1
+Joyau vent 1
+Joyau vent 2
+DUMMY 139
+Joyau collecte 1
+Joyau Enchaîn. 1
+Joyau béni 1
+Joyau destin 1
+Joyau destin 3
+DUMMY 140
+J. psychique 1
+Joyau remède 1
+Joyau remède 2
+J. professeur 1
+Joyau usine 1
+Joyau évasion 1
+Joyau évasion 2
+J. potentiel 1
+J. potentiel 2
+Joyau durable 1
+Joyau sprinter 1
+Joyau sprinter 3
+Joyau capacité 2
+Joyau capacité 3
+Joyau sniper 1
+Joyau glouton 1
+Joyau glouton 3
+J. découpeur 1
+J. découpeur 3
+Joyau appui 1
+J. tectonique 1
+DUMMY 141
+Joyau de saut 1
+DUMMY 142
+Joyau dégaine 1
+Joyau dégaine 2
+J. m. piégeur 1
+Joyau physique 1
+Joyau physique 2
+Joyau capture 1
+Joyau capture 3
+J. perception 1
+Joyau chargeur 1
+Joyau chargeur 3
+J. air frais 1
+Joyau digue 1
+Joyau nageur 1
+Joyau plongeur 1
+Jouyau tactique 1
+Jouyau tactique 3
+J. résistance 1
+J. libération 2
+J. catalyste 3
+Joyau courage 1
+Joyau courage 2
+Joyau salve 1
+Joyau salve 3
+Joyau bousier 1
+Joyau torche 1
+J. assurance 1
+Joyau stérile 1
+J. aseptique 1
+Joyau brasier 1
+Joyau brasier 2
+Joyau flot 1
+Joyau flot 2
+Joyau éclair 1
+Joyau éclair 2
+Joyau givre 1
+Joyau givre 2
+Joyau dragon 1
+Joyau dragon 2
+J. attendris. 1
+J. attendris. 3
+J. destructeur 1
+J. destructeur 3
+J. autorité 1
+J. autorité 2
+Joyau KO 1
+Joyau drainage 1
+Joyau drainage 2
+Joyau sonore 1
+J. artillerie 1
+J. résistance 3
+Joyau anti-feu 1
+Joyau anti-eau 1
+J. anti-foudre 1
+J. anti-glace 1
+J. anti-dragon 1
+J. rengainage 1
+J. rengainage 2
+J. revigorant 1
+J. revigorant 2
+Joyau ranger 1
+J. bonus tran. 1
+J. end. para. 1
+J. end. para. 2
+J. end. som. 1
+J. end. poison 1
+J. end. énerg. 1
+J. end. énerg. 2
+J. end. càc 1
+J. end. épuis. 1
+Joyau digue 2
+Joyau bravoure 1
+Joyau bravoure 2
+J. carnivore 1
+J. carnassier 1
+Joyau esquive 1
+Joyau glissade 1
+Joyau abeille 1
+Joyau ruche 1
+Joyau biologie 1
+Joyau microbio 1
+Joyau courage 1
+Joyau courage 2
+Joyau parfait 1
+Joyau parfait 2
+Joyau stable 1
+Joyau stable 3
+Joyau poisson 1
+Joyau poisson 2
+Joyau joueur 1
+Joyau moral 1
+Joyau leader 1
+Joyau leader 2
+Joyau KO 2
+Joyau charme 1
+J. bonus pois. 1
+J. end. poisse 1
