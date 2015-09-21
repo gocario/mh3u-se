@@ -1,0 +1,379 @@
+Coiffe en cuir
+Masque de nageur
+Coiffe en maille
+Casque de chasseur
+Heaume de chasseur
+Casque d'os
+Heaume d'os
+Casque en alliage
+Heaume en alliage
+Casque Jaggi
+Heaume jaggi
+Casque Bnahabra
+Couvre-chef Bnahabra
+Casque Rhenoplos
+Heaume Rhenoplos
+Casque Qurupeco
+Heaume Qurupeco
+Casque Ludroth
+Heaume Ludroth
+Casque Baggi
+Heaume baggi
+Casque Barroth
+Heaume Barroth
+Casque Gobul
+Heaume Gobul
+DUMMY
+DUMMY
+Lobos de barde
+Chapeau de barde
+Béret de clerc
+Heaume de clerc
+Casque Rathian
+Heaume Rathian
+Casque Gigginox
+Heaume Gigginox
+Casque en lingot
+Heaume en lingot
+Casque Lagiacrus
+Heaume lagiacrus
+Casque Rathalos
+Heaume Rathalos
+Casque Barioth
+Heaume Barioth
+Casque Diablos
+Heaume Diablos
+Casque Uragaan
+Heaume Uragaan
+Casque Agnaktor
+Heaume Agnaktor
+Casque Helios
+Heaume Helios
+Casque Selene
+Heaume Selene
+Casque Wroggi
+Calot Wroggi
+Casque Arzuros
+Calot Arzuros
+Casque Lagombi
+Calot lagombi
+Casque Volvidon
+Calot Volvidon
+Casque Nibelsnarf
+Calot Nibelsnarf
+Casque Duramboros
+Calot Duramboros
+Kasa Yukumo
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Casque en cuir S
+Calot en cuir S
+Maque de nageur S
+Tuba de nageur S
+Casque en maille S
+Calot en maille S
+Casque de chasseur S
+Calot de chasseur S
+Casque d'os S
+Calot d'os S
+Casque en alliage S
+Calot en alliage S
+Casque Jaggi S
+Calot Jaggi S
+Chapeau Bnahabra S
+C-chef Bnahabra S
+Casque Rhenoplos S
+Calot Rhenoplos S
+Capuche Slagtoth
+Coule Slagtoth
+Casque Qurupeco S
+Calot Qurupeco S
+Casque Qurupeco S
+Calot Qurupeco S
+Casque Ludroth S
+Calot Ludroth S
+Casque Ludroth U
+Calot Ludroth U
+Casque Baggi S
+Calot Baggi S
+Chapeau Wroggi S
+Calot Wroggi S
+Casque Arzuros S
+Calot Arzuros S
+Casque Lagombi S
+Calot Lagombi S
+Casque Volvidon S
+Calot. Volvidon S
+Casque Barroth S
+Calot Barroth S
+Casque Barroth U
+Calot Barroth U
+Casque Gobul S
+Calot Gobul S
+Lobos de barde S
+Chapeau de barde S
+Béret de clerc S
+Calot de clerc S
+Casque Rathian S
+Calot Rathian S
+Casque Coeur Rath
+Calot Coeur Rath
+Casque Gigginox S
+Calot Gigginox S
+Casque Gigginox U
+Calot Gigginox U
+Casque Ingot S
+Calot Ingot S
+Casque Dober
+Heaume Dober
+Kasa ciel Yukumo
+Kasa terre Yukumo
+Vertex Aelucanth
+Clypeus Aelucant
+Vertex Rhopessa
+Clypeus Rhopessa
+Visière Mosgharl
+Voile Mosgharl
+Casque Lagiacrus S
+Calot Lagiacrus S
+Casque Lagiacrus U
+Calot Lagiacrus U
+Casque Rathalos S
+Calot Rathalos S
+Casque Âme Rath
+Calot Âme Rath
+Casque Barioth S
+Calot Barioth S
+Casque Barioth U
+Calot Barioth U
+Casque Diablos S
+Calot Diablos S
+Casque Diablos U
+Calot Diablos U
+Casque Uragaan S
+Calot Uragaan S
+Casque Uragaan U
+Calot Uragaan U
+Casque Agnaktor S
+Calot Agnaktor S
+Casque Agnaktor U
+Calot Agnaktor U
+Casque Vangis
+Heaume Vangis
+Casque Damascus
+Heaume Damascus
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Yamato Kabuto
+Mutsu Kabuto
+Hyuga Hachigane
+Amagi Hachigane
+Escadora Wisdom
+Sagesse Escadora
+Casque Zinogre
+Calot Zinogre
+Casque Nibelsnarf S
+Calot Nibelsnarf S
+Casque Duramboros S
+Calot Duramboros S
+Casque Nargacuga
+Calot Nargacuga
+Casque Plesioth
+Calot Plesioth
+Casque Brachydios
+Calot Brachydios
+Toque Dianthus
+Toque Campanile
+Coffe de ranger
+Turban d'archer
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Casque Ingot X
+Calot Ingot X
+Chapeau Bnahabra X
+C-chef Bnahabra X
+Casque Rhenoplos X
+Calot Rhenoplos X
+Capuche Slagtoth X
+Coule Slagtoth X
+Casque Jaggi X
+Calot Jaggi X
+Casque Baggi X
+Calot Baggi X
+Casque Wroggi X
+Calot Wroggi X
+Casque Arzuros X
+Calot Arzuros X
+Casque Lagombi X
+Calot Lagombi X
+Casque Volvidon X
+Calot Volvidon X
+Casque Qurupeco X
+Calot Qurupeco X
+Casque Qurupeco Z
+Calot Qurupeco Z
+Casque Ludroth X
+Calot Ludroth X
+Casque Ludroth Z
+Calot Ludroth Z
+Casque Barroth X
+Calot Barroth X
+Casque Barroth Z
+Calot Barroth Z
+Casque Gobul X
+Calot Gobul X
+Casque Rathalos X
+Calot Rathalos X
+Casque Âme Rath Z
+Calot Âme Rath Z
+Casque Sol argent
+Calot Sol argent
+Casque Rathian X
+Calot Rathian X
+Casque Coeur Rath Z
+Calot Coeur Rath Z
+Casque Lune or
+Calot Lune or
+Casque Lagiacrus X
+Calot Lagiacrus X
+Casque Lagiacrus Z
+Calot Lagiacrus Z
+Casque Nether
+Calot Nether
+Casque Gigginox X
+Calot Gigginox X
+Casque Gigginox Z
+Calot Gigginox Z
+Casque Barioth X
+Calot Barioth X
+Casque Barioth Z
+Calot Barioth Z
+Casque Diablos X
+Calot Diablos X
+Casque Diablos Z
+Calot Diablos Z
+Casque Uragaan X
+Calot Uragaan X
+Casque Uragaan Z
+Calot Uragaan Z
+Casque Agnaktor X
+Calot Agnaktor X
+Casque Agnaktor Z
+Calot Agnaktor Z
+Casque Helios X
+Calot Heliox X
+Casque Helios Z
+Calot Helios Z
+Casque Selene X
+Calot Selene X
+Casque Selene Z
+Calot Selene Z
+Grand Yamato Kabuto
+Grand Mutsu Eboshi
+Grand H. Hachigane
+Grand Amagi Jingasa
+Y. Kabuto parfait
+Mutsu Eboshi parfait
+H. Hachigane parfait
+A. Jingasa parfait
+Casque Vangis X
+Calot Vangis X
+Escadora Wisdom X
+Sagesse Escadora X
+Casque Zinogre X
+Calot Zinogre X
+Casque Zinogre Z
+Calot Zinogre Z
+Casque Nibelsnarf X
+Calot Nibelsnarf X
+Casque Duramboros X
+Calot Duramboros X
+Casque Duramboros Z
+Calot Duramboros Z
+Casque Nargacuga X
+Calot Nargacuga X
+Casque Nargacuga Z
+Calot Nargacuga Z
+Crête Lambent
+Crête Silhouette
+Casque Plesioth X
+Calot Plesioth X
+Casque Plesioth Z
+Calot Plesioth Z
+Casque Brachydios X
+Calot Brachydios X
+Didème Miralis
+Couronne Miralis
+Casque Damascus X
+Calot Damascus X
+Casque Dober X
+Calot Dober X
+DUMMY
+DUMMY
+Vertex Aelucanth X
+Clypeus Aelucanth X
+Vertex Rhopessa X
+Clypeus Rhopessa X
+Visière Mosgharl X
+Voile Mosgharl X
+Calot zéb. Dianthus
+Calot Z. Campanile
+Coiffe de rôdeur
+Turban mortel
+Lobos de barde X
+Chapeau de barde X
+Béret de clerc X
+Calot de clerc X
+DUMMY
+DUMMY
+Chapeau de marin
+Calot de marin
+Pare-soleil
+Masque Jaggi
+Masque Gargwa
+Masque Bullfango
+Tête de mort
+Piercing Chakra
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Piercing fine lame
+Piercing barrage
+Visage de mort
+Piercing fine lame

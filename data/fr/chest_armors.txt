@@ -1,0 +1,381 @@
+Tunique en cuir
+Tunique en maille
+Foulard de Loc Lac
+Cotte de chasseur
+Tunique de chasseur
+Cotte d'os
+Tunique d'os
+Cotte en alliage
+Tunique en alliage
+Cotte Jaggi
+Tunique Jaggi
+Armure Bnahabra
+Tunique Bnahabra
+Cotte Rhenoplos
+Tunique Rhenoplos
+Cotte Qurupeco
+Tunique Qurupeco
+Cotte Ludroth
+Tunique Ludroth
+DUMMY
+Cotte Baggi
+Tunique Baggi
+Cotte Barroth
+Tunique Barroth
+Cotte Gobul
+Tunique Gobul
+DUMMY
+DUMMY
+Boléro de barde
+Tunique de barde
+Blouse de clerc
+Tuniqure de clerc
+Cotte Rathian
+Tunique Rathian
+Cotte Gigginox
+Tunique Gigginox
+Cotte en lingot
+Tunique en lingot
+Cotte Lagiacrus
+Tunique Lagiacrus
+Cotte Rathalos
+Tunique Rathalos
+Cotte Barioth
+Tunique Barioth
+Cotte Diablos
+Tunique Diablos
+Cotte Uragaan
+Tunique Uragaan
+Cotte Agnaktor
+Tunique Agnaktor
+Cotte Helios
+Tunique Helios
+Cotte Selene
+Tunique Selene
+Cotte Wroggi
+Tunique Wroggi
+Cotte Arzuros
+Tunique Arzuros
+Cotte Lagombi
+Tunique Lagombi
+Cotte Volvidon
+Tunique Volvidon
+Cotte Nibelsnarf
+Tunique Nibelsnarf
+Cotte Duramboros
+Tunique Duramboros
+Keikogi Yukumo
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Cotte en cuir S
+Tunique en cuir S
+Cotte en mailles S
+Tunique en mailles S
+Foulard de Loc Lac S
+Tunique de Loc Lac S
+Cotte de chasseur S
+Tunique chasseur S
+Cotte d'os S
+Tunique d'os S
+Cotte en alliage S
+Tunique en alliage S
+Cotte Jaggi S
+Tunique Jaggi S
+Armure Bnahabra S
+Tunique Bnahabra S
+Cotte Rhenoplos S
+Tunique Rhenoplos S
+Cape Slagtoth S
+Pagne Slagtoth S
+Cotte Qurupeco S
+Tunique Qurupeco S
+Cotte Qurupeco U
+Tunique Qurupeco U
+Cotte Ludroth S
+Tunique Ludroth S
+Cotte Ludroth U
+Tunique Ludroth U
+DUMMY
+Cotte Baggi S
+Tunique Baggi S
+Cotte Wroggi S
+Tunique Wroggi S
+Cotte Arzuros S
+Tunique Arzuros S
+Cotte Lagombi S
+Tunique Lagombi S
+Cotte Volvidon S
+Tunique Volvidon S
+Cotte Barroth S
+Tunique Barroth S
+Cotte Barroth U
+Tunique Barroth U
+Cotte Gobul S
+Tunique Gobul S
+Boléro de barde S
+Tunique de barde S
+Blouse de clerc S
+Tunique de clerc S
+Cotte Rathian S
+Tunique Rathian S
+Cotte Coeur Rath
+Tunique Coeur Rath
+Cotte Gigginox S
+Tunique Gigginox S
+Cotte Gigginox U
+Tunique Gigginox U
+Cotte Ingot S
+Tunique Ingot S
+Cotte Dober
+Tunique Dober
+Keikogi ciel Yukumo
+Keikogi terre Yukumo
+Thorax Aelucanth
+Pleuron Aelucant
+Thorax Rhopessa
+Pleuron Rhopessa
+Côte Mosgharl
+Protège-c. Mosgharl
+Cotte Artian
+Tunique Artian
+Cotte Lagiacrus S
+Tunique Lagiacrus S
+Cotte Lagiacrus U
+Tunique Lagiacrus U
+Cotte Rathalos S
+Tunique Rathalos S
+Cotte Âme Rath
+Tunique Âme Rath
+Cotte Barioth S
+Tunique Barioth S
+Cotte Barioth U
+Tunique Barioth U
+Cotte Diablos S
+Tunique Diablos S
+Cotte Diablos U
+Tunique Diablos U
+Cotte Uragaan S
+Tunique Uragaan S
+Cotte Uragaan U
+Tunique Uragaan U
+Cotte Agnaktor S
+Tunique Agnaktor S
+Cotte Agnaktor U
+Tunique Agnaktor U
+Cotte Vangis
+Tunique Vangis
+Cotte Damascus
+Tunique Damascus
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Yamato Doate
+Mutsu Doate
+Hyuga Muneate
+Amagi Muneate
+Escadora Soul
+Âme Escadora
+Cotte Zinogre
+Tunique Zinogre
+Cotte Nibelsnarf S
+Tunique Nibelsnarf S
+Cotte Duramboros S
+Tunique Duramboros S
+Cotte Nargacuga
+Tunique Nargacuga
+Cotte Plesioth
+Tunique Plesioth
+Cotte Brachydios
+Tunique Brachydios
+Gilet Dianthus
+Gilet Campanile
+Gaîne de ranger
+Gaîne d'archer
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Cotte Ingot X
+Tunique Ingot X
+Armure Bnahabra X
+Tunique Bnahabra X
+Cotte Rhenoplos X
+Tunique Rhenoplos X
+Cape Slagtoth X
+Pagne Slagtoth X
+Cotte Jaggi X
+Tunique Jaggi X
+Cotte Baggi X
+Tunique Baggi X
+Cotte Wroggi X
+Tunique Wroggi X
+Cotte Arzuros X
+Tunique Arzuros X
+Cotte Lagombi X
+Tunique Lagombi X
+Cotte Volvidon X
+Tunique Volvidon X
+Cotte Qurupeco X
+Tunique Qurupeco X
+Cotte Qurupeco Z
+Tunique Qurupeco Z
+Cotte Ludroth X
+Tunique Ludroth X
+Cotte Ludroth Z
+Tunique Ludroth Z
+Cotte Barroth X
+Tunique Barroth X
+Cotte Barroth Z
+Tunique Barroth Z
+Cotte Gobul X
+Tunique Gobul X
+Cotte Rathalos X
+Tunique Rathalos X
+Cotte Âme Rath Z
+Tunique Âme Rath Z
+Cotte Sol argent
+Tunique Sol argent
+Cotte Rathian X
+Tunique Rathian X
+Cotte Coeur Rath Z
+Tunique Coeur Rath Z
+Cotte Lune or
+Tunique Lune or
+Cotte Lagiacrus X
+Tunique Lagiacrus X
+Cotte Lagiacrus Z
+Tunique Lagiacrus Z
+Cotte Nether
+Tunique Nether
+Cotte Gigginox X
+Tunique Gigginox X
+Cotte Gigginox Z
+Tunique Gigginox Z
+Cotte Barioth X
+Tunique Barioth X
+Cotte Barioth Z
+Tunique Barioth Z
+Cotte Diablos X
+Tunique Diablos X
+Cotte Diablos Z
+Tunique Diablos Z
+Cotte Uragaan X
+Tunique Uragaan X
+Cotte Uragaan Z
+Tunique Uragaan Z
+Cotte Agnaktor X
+Tunique Agnaktor X
+Cotte Agnaktor Z
+Tunique Agnaktor Z
+Cotte Helios X
+Tunique Heliox X
+Cotte Helios Z
+Tunique Helios Z
+Cotte Selene X
+Tunique Selene X
+Cotte Selene Z
+Tunique Selene Z
+Grand Yamato Doate
+Grand Mutsu Doate
+Grand Hyuga Muneate
+Grand Amagi Muneate
+Y. Doate parfait
+M. Doate parfait
+H. Muneate parfait
+A. Muneate parfait
+Cotte Vangis X
+Tunique Vangis X
+Escadora Soul X
+Âme Escadora X
+Cotte Zinogre X
+Tunique Zinogre X
+Cotte Zinogre Z
+Tunique Zinogre Z
+Cotte Nibelsnarf X
+Tunique Nibelsnarf X
+Cotte Duramboros X
+Tunique Duramboros X
+Cotte Duramboros Z
+Tunique Duramboros Z
+Cotte Nargacuga X
+Tunique Nargacuga X
+Cotte Nargacuga Z
+Tunique Nargacuga Z
+Haubert Lambent
+Haubert Silhouette
+Cotte Plesioth X
+Tunique Plesioth X
+Cotte Plesioth Z
+Tunique Plesioth Z
+Cotte Brachydios X
+Tunique Brachydios X
+Plastron Miralis
+Poitrail Miralis
+Cotte Damascus X
+Tunique Damascus X
+Cotte Dober X
+Tunique Dober X
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Thorax Aelucanth X
+Pleuron Aelucanth X
+Thorax Rhopessa X
+Pleuron Rhopessa X
+Côte Mosgharl X
+Prot.-c. Mosgharl X
+Cotte Artian X
+Tunique Artian X
+Taille zéb. Dianthus
+Taille z. Campanile
+Gaîne de rôdeur
+Gaîne mortelle
+Boléro de barde X
+Tunique de barde X
+Blouse de clerc X
+Tunique de clerc X
+DUMMY
+DUMMY
+Armure de marin
+Tunique de marin
+Collier Chakra
+DUMMY R10
+DUMMY R10
+DUMMY R1
+DUMMY R1
+DUMMY R10
+DUMMY R10
+DUMMY R1
+DUMMY R1
+DUMMY R7
+DUMMY R7
+DUMMY R1
+DUMMY R1
+DUMMY R7
+DUMMY R7
+DUMMY R7
+DUMMY R7
+DUMMY R5
+DUMMY R5
+DUMMY R1
+DUMMY R1
+DUMMY R1
+DUMMY R1
+DUMMY R10
+DUMMY R10
+Gilet de l'enfer
+Cuir de l'enfer
