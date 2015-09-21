@@ -1,0 +1,19 @@
+Chest
+Arms
+Waist
+Legs
+Head
+Talisman
+Great Sword
+Sword & Shield
+Hammer
+Lance
+Light Bowgun
+
+Heavy Bowgun
+Long Sword
+Switch-Axe
+Gunlance
+Gun
+Dual Blades
+Hunting Horn
