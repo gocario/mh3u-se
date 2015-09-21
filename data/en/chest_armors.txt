@@ -1,0 +1,381 @@
+Leather Vest
+Chainmail Vest
+Loc Lac Shawl
+Hunter's Mail
+Hunter's Vest
+Bone Mail
+Bone Vest
+Alloy Mail
+Alloy Vest
+Jaggi Mail
+Jaggi Vest
+Bnahabra Suit
+Bnahabra Vest
+Rhenoplos Mail
+Rhenoplos Vest
+Qurupeco Mail
+Qurupeco Vest
+Ludroth Mail
+Ludroth Vest
+DUMMY
+Baggi Mail
+Baggi Vest
+Barroth Mail
+Barroth Vest
+Gobul Mail
+Gobul Vest
+DUMMY
+DUMMY
+Guild Bard Bolero
+Guild Bard Vest
+Scholar's Blouse
+Scholar's Vest
+Rathian Mail
+Rathian Vest
+Gigginox Mail
+Gigginox Vest
+Ingot Mail
+Ingot Vest
+Lagiacrus Mail
+Lagiacrus Vest
+Rathalos Mail
+Rathalos Vest
+Barioth Mail
+Barioth Vest
+Diablos Mail
+Diablos Vest
+Uragaan Mail
+Uragaan Vest
+Agnaktor Mail
+Agnaktor Vest
+Helios Mail
+Helios Vest
+Selene Mail
+Selene Vest
+Wroggi Mail
+Wroggi Vest
+Arzuros Mail
+Arzuros Vest
+Lagombi Mail
+Lagombi Vest
+Volvidon Mail
+Volvidon Vest
+Nibelsnarf Mail
+Nibelsnarf Vest
+Duramboros Mail
+Duramboros Vest
+Yukumo Dogi
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Leather Mail S
+Leather Vest S
+Chainmail Armor S
+Chainmail Vest S
+Loc Lac Shawl S
+Lac Lac Vest S
+Hunter's Mail S
+Hunter's Vest S
+Bone Mail S
+Bone Vest S
+Alloy Mail S
+Alloy Vest S
+Jaggi Mail S
+Jaggi Vest S
+Bnahabra Suit S
+Bnahabra Vest S
+Rhenoplos Mail S
+Rhenoplos Vest S
+Slagtoth Cloak
+Slagtoth Wrap
+Qurupeco Mail S
+Qurupeco Vest S
+Qurupeco Mail U
+Qurupeco Vest U
+Ludroth Mail S
+Ludroth Vest S
+Ludroth Mail U
+Ludroth Vest U
+DUMMY
+Baggi Mail S
+Baggi Vest S
+Wroggi Mail S
+Wroggi Vest S
+Arzuros Mail S
+Arzuros Vest S
+Lagombi Mail S
+Lagombi Vest S
+Volvidon Mail S
+Volvidon Vest S
+Barroth Mail S
+Barroth Vest S
+Barroth Mail U
+Barroth Vest U
+Gobul Mail S
+Gobul Vest S
+Guild Bard Bolero S
+Guild Bard Vest S
+Scholar's Blouse S
+Scholar's Vest S
+Rathian Mail S
+Rathian Vest S
+Rath Heart Mail
+Rath Heart Vest
+Gigginox Mail S
+Gigginox Vest S
+Gigginox Mail U
+Gigginox Vest U
+Ingot Mail S
+Ingot Vest S
+Dober Mail
+Dober Vest
+Yukumo Sky Dogi
+Yukumo Land Dogi
+Aelucanth Thorax
+Aelucanth Pleuron
+Rhopessa Torax
+Rhopessa Pleuron
+Mosgharl Ribplate
+Mosgharl Ribguard
+Artian Mail
+Artian Vest
+Lagiacrus Mail S
+Lagiacrus Vest S
+Lagiacrus Mail U
+Lagiacrus Vest U
+Rathalos Mail S
+Rathalos Vest S
+Rath Soul Mail
+Rath Soul Vest
+Barioth Mail S
+Barioth Vest S
+Barioth Mail U
+Barioth Vest U
+Diablos Mail S
+Diablos Vest S
+Diablos Mail U
+Diablos Vest U
+Uragaan Mail S
+Uragaan Vest S
+Uragaan Mail U
+Uragaan Vest U
+Agnaktor Mail S
+Agnaktor Vest S
+Agnaktor Mail U
+Agnaktor Vest U
+Vangis Mail
+Vangis Vest
+Damascus Mail
+Damascus Vest
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Yamato Doate
+Mutsu Doate
+Hyuga Muneate
+Amagi Muneate
+Escadora Soul
+Escadora Seele
+Zinogre Mail
+Zinogre Vest
+Nibelsnarf Mail S
+Nibelsnarf Vest S
+Duramboros Mail S
+Duramboros Vest S
+Nargacuga Mail
+Nargacuga Vest
+Plesioth Mail
+Plesioth Vest
+Brachydios Mail
+Brachydios Vest
+Dianthus Jacket
+Campanile Jacket
+Ranger's Girdle
+Archer's Girdle
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Ingot Mail X
+Ingot Vest X
+Bnahabra Suit X
+Bnahabra Vest X
+Rhenoplos Mail X
+Rhenoplos Vest X
+Slagtoth Cloak X
+Slagtoth Wrap X
+Jaggi Mail X
+Jaggi Vest X
+Baggi Mail X
+Baggi Vest X
+Wroggi Mail X
+Wroggi Vest X
+Arzuros Mail X
+Arzuros Vest X
+Lagombi Mail X
+Lagombi Vest X
+Volvidon Mail X
+Volvidon Vest X
+Qurupeco Mail X
+Qurupeco Vest X
+Qurupeco Mail Z
+Qurupeco Vest Z
+Ludroth Mail X
+Ludroth Vest X
+Ludroth Mail Z
+Ludroth Vest Z
+Barroth Mail X
+Barroth Vest X
+Barroth Mail Z
+Barroth Vest Z
+Gobul Mail X
+Gobul Vest X
+Rathalos Mail X
+Rathalos Vest X
+Rath Soul Mail Z
+Rath Soul Vest Z
+Silver Solmail
+Silver Solvest
+Rathian Mail X
+Rathian Vest X
+Rath Heart Mail Z
+Rath Heart Vest Z
+Golden Lunemail
+Golden Lunevest
+Lagiacrus Mail X
+Lagiacrus Vest X
+Lagiacrus Mail Z
+Lagiacrus Vest Z
+Nether Mail
+Nether Vest
+Gigginox Mail X
+Gigginox Vest X
+Gigginox Mail Z
+Gigginox Vest Z
+Barioth Mail X
+Barioth Vest X
+Barioth Mail Z
+Barioth Vest Z
+Diablos Mail X
+Diablos Vest X
+Diablos Mail Z
+Diablos Vest Z
+Uragaan Mail X
+Uragaan Vest X
+Uragaan Mail Z
+Uragaan Vest Z
+Agnaktor Mail X
+Agnaktor Vest X
+Agnaktor Mail Z
+Agnaktor Vest Z
+Helios Mail X
+Helios Vest X
+Helios Mail Z
+Helios Vest Z
+Selene Mail X
+Selene Vest X
+Selene Mail Z
+Selene Vest Z
+Grand Yamato Doate
+Grand Mutsu Doate
+Grand Hyuga Muneate
+Grand Amagi Muneate
+Yamato Doate Prime
+Mutsu Doate Prime
+Hyuga Muneate Prime
+Amagi Muneate Prime
+Vangis Mail X
+Vangis Vest X
+Escadora Soul X
+Escadora Seele X
+Zinogre Mail X
+Zinogre Vest X
+Zinogre Mail Z
+Zinogre Vest Z
+Nibelsnarf Mail X
+Nibelsnarf Vest X
+Duramboros Mail X
+Duramboros Vest X
+Duramboros Mail Z
+Duramboros Vest Z
+Nargacuga Mail X
+Nargacuga Vest X
+Nargacuga Mail Z
+Nargacuga Vest Z
+Lambent Hauberk
+Silhouette Hauberk
+Plesioth Mail X
+Plesioth Vest X
+Plesioth Mail Z
+Plesioth Vest Z
+Brachydios Mail X
+Brachydios Vest X
+Miralis Breastplate
+Miralis Chestguard
+Damascus Mail X
+Damascus Vest X
+Dober Mail X
+Dober Vest X
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Aelucanth Thorax X
+Aelucanth Pleuron X
+Rhopessa Thorax X
+Rhopessa Pleuron X
+Mosgharl Ribplate X
+Mosgharl Ribguard X
+Artian Mail X
+Artian Vest X
+Dianthus Wealcoat
+Campanile Wealcoat
+Strider's Girdle
+Deadeye's Girdle
+Guild Bard Bolero X
+Guild Bard Vest X
+Scholar's Blouse X
+Scholar's Vest X
+DUMMY
+DUMMY
+Sailor Suit
+Sailor Vest
+Chakra Necklace
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+HellHunter Jacket
+HellHunter Leather

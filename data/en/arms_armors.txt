@@ -1,0 +1,356 @@
+Leather Gloves
+Chainmail Gloves
+Hunter's Vambraces
+Hunter's Guards
+Bone Vambraces
+Bone Guards
+Alloy Vambraces
+Alloy Guards
+Jaggi Vambraces
+Jaggi Guards
+Bnahabra Gloves
+Bnahabra Sleeves
+Rhenoplos Vambraces
+Rhenoplos Guards
+Qurupeco Vambraces
+Qurupeco Guards
+Ludroth Vambraces
+Ludroth Guards
+DUMMY
+Baggi Vambraces
+Baggi Guards
+Barroth Vambraces
+Barroth Guards
+Gobul Vambraces
+Gobul Guards
+DUMMY
+DUMMY
+Guild Bard Braces
+Guild Braces Sleeves
+Scholar's Gloves
+Scholar's Sleeves
+Rathian Vambraces
+Rathian Guards
+Gigginox Vambraces
+Gigginox Guards
+Ingot Vambraces
+Ingot Guards
+Lagiacrus Braces
+Lagiacrus Guards
+Rathalos Vambraces
+Rathalos Guards
+Barioth Vambraces
+Barioth Guards
+Diablos Vambraces
+Diablos Guards
+Uragaan Vambraces
+Uragaan Guards
+Agnaktor Vambraces
+Agnaktor Guards
+Helios Vambraces
+Helios Guards
+Selene Vambraces
+Selene Guards
+Wroggi Vambraces
+Wroggi Guards
+Arzuros Vambraces
+Arzuros Guards
+Lagombi Vambraces
+Lagombi Guards
+Volvidon Vambraces
+Vambraces Guards
+Nibelsnarf Braces
+Nibelsnarf Guards
+Duramboros Braces
+Duramboros Guards
+Yukumo Kote
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Leather Vambraces S
+Leather Guards S
+Chainmail Braces S
+Chainmail Guards S
+Hunter's Vambraces S
+Hunter's Guards S
+Bone Vambraces S
+Bone Guards S
+Alloy Vambraces S
+Alloy Guards S
+Jaggi Vambraces S
+Jaggi Guards S
+Bnahabra Gloves S
+Bnahabra Steeves S
+Rhenoplos Braces S
+Rhenoplos Guards S
+Qurupeco Vambraces S
+Qurupeco Guards S
+Qurupeco Vambraces U
+Qurupeco Guards U
+Ludroth Vambraces S
+Ludroth Guards S
+Ludroth Vambraces U
+Ludroth Guards U
+DUMMY
+Baggi Vambraces S
+Baggi Guards S
+Wroggi Vambraces S
+Wroggi Guards S
+Arzuros Vambraces S
+Arzuros Guards S
+Lagombi Vambraces S
+Lagombi Guards S
+Volvidon Vambraces S
+Volvidon Guards S
+Barroth Vambraces S
+Barroth Guards S
+Barroth Vambraces U
+Barroth Guards U
+Gobul Vambraces S
+Gobul Guards S
+Guild Bard Braces S
+Guild Bard Sleeves S
+Scholar's Gloves S
+Scholar's Sleeves S
+Rathian Vambraces S
+Rathian Guards S
+Rath Heart Braces
+Rath Heart Guards
+Gigginox Vambraces S
+Gigginox Guards S
+Gigginox Vambraces U
+Gigginox Guards U
+Ingot Vambraces S
+Ingot Guards S
+Dober Vambraces
+Dober Guards
+Yukumo Sky Kote
+Yukumo Land Kote
+Aelucanth Brachia
+Aelucanth Manus
+Rhopessa Brachia
+Rhopessa Manus
+Mosgharl Creeper
+Mosgharl Tendril
+Artian Vambraces
+Artian Guards
+Lagiacrus Braces S
+Lagiacrus Guards S
+Lagiacrus Braces U
+Lagiacrus Guards U
+Rathalos Vambraces S
+Rathalos Guards S
+Rath Soul Braces
+Rath Soul Guards
+Barioth Vambraces S
+Barioth Guards S
+Barioth Vambraces U
+Barioth Guards U
+Diablos Vambraces S
+Diablos Guards S
+Diablos Vambraces U
+Diablos Guards U
+Uragaan Vambraces S
+Uragaan Guards S
+Uragaan Vambraces U
+Uragaan Guards U
+Agnaktor Vambraces S
+Agnaktor Guards S
+Agnaktor Vambraces U
+Agnaktor Guards U
+Vangis Vambraces
+Vangis Guards
+Damascus Vambraces
+Damascus Guards
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Yamato Kote
+Mutsu Kote
+Hyuga Kote
+Amagi Kote
+Escadora Arms
+Escadora Arma
+Zinogre Vambraces
+Zinogre Guards
+Nibelsnarf Braces S
+Nibelsnarf Guards S
+Duramboros Braces S
+Duramboros Guards S
+Nargacuga Braces
+Nargacuga Guards
+Plesioth Vambraces
+Plesioth Guards
+Brachydios Braces
+Brachydios Guards
+Dianthus Sleeves
+Campanile Sleeves
+Ranger's Gauntlets
+Archer's Gauntlets
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Ingot Vambraces X
+Ingot Guards X
+Bnahabra Gloves X
+Bnahabra Sleeves X
+Rhenoplos Braces X
+Rhenoplos Guards X
+Jaggi Vambraces X
+Jaggi Guards X
+Baggi Vambraces X
+Baggi Guards X
+Wroggi Vambraces X
+Wroggi Guards X
+Arzuros Vambraces X
+Arzuros Guards X
+Lagombi Vambraces X
+Lagombi Guards X
+Volvidon Vambraces X
+Volvidon Guards X
+Qurupeco Vambraces X
+Qurupeco Guards X
+Qurupeco Vambraces Z
+Qurupeco Guards Z
+Ludroth Vambraces X
+Ludroth Guards X
+Ludroth Vambraces Z
+Ludroth Guards Z
+Barroth Vambraces X
+Barroth Guards X
+Barroth Vambraces Z
+Barroth Guards Z
+Gobul Vambraces X
+Gobul Guards X
+Rathalos Vambraces X
+Rathalos Guards X
+Rath Soul Braces Z
+Rath Soul Guards Z
+Silver Solbraces
+Silver Solguards
+Rathian Vambraces X
+Rathian Guards X
+Rath Heart Braces Z
+Rath Heart Guards Z
+Golden Lunebraces
+Golden Luneguards
+Lagiacrus Braces X
+Lagiacrus Guards X
+Lagiacrus Braces Z
+Lagiacrus Guards Z
+Nether Vambraces
+Nether Guards
+Gigginox Vambraces X
+Gigginox Guards X
+Gigginox Vambraces Z
+Gigginox Guards Z
+Barioth Vambraces X
+Barioth Guards X
+Barioth Vambraces Z
+Barioth Guards Z
+Diablos Vambraces X
+Diablos Guards X
+Diablos Vambraces Z
+Diablos Guards Z
+Uragaan Vambraces X
+Uragaan Guards X
+Uragaan Vambraces Z
+Uragaan Guards Z
+Agnaktor Vambraces X
+Agnaktor Guards X
+Agnaktor Vambraces Z
+Agnaktor Guards Z
+Helios Vambraces X
+Helios Guards X
+Helios Vambraces Z
+Helios Guards Z
+Selene Vambraces X
+Selene Guards X
+Selene Vambraces Z
+Selene Guards Z
+Grand Yamato Kote
+Grand Mutsu Kote
+Grand Hyuga Kote
+Grand Amagi Kote
+Yamato Kote Prime
+Mutsu Kote Prime
+Hyuga Kote Prime
+Amagi Kote Prime
+Vangis Vambraces X
+Vangis Guards X
+Escadora Arms X
+Escadora Arma X
+Zinogre Vambraces X
+Zinogre Guards X
+Zinogre Vambraces Z
+Zinogre Guards Z
+Nibelsnarf Braces X
+Nibelsnarf Guards X
+Duramboros Braces X
+Duramboros Guards X
+Duramboros Braces Z
+Duramboros Guards Z
+Nargacuga Braces X
+Nargacuga Guards X
+Nargacuga Braces Z
+Nargacuga Guards Z
+Lambent Wristrays
+Silhouette Wristrays
+Plesioth Vambraces X
+Plesioth Guards X
+Plesioth Vambraces Z
+Plesioth Guards Z
+Brachydios Braces X
+Brachydios Guards X
+Miralis Grievers
+Miralis Clouts
+Damascus Vambraces X
+Damascus Guards X
+Dober Vambraces X
+Dober Guards X
+DUMMY
+DUMMY
+Aelucanth Brachia X
+Aelucanth Manus X
+Rhopessa Brachia X
+Rhopessa Manus X
+Mosgharl Creeper X
+Mosgharl Tendril X
+Artian Vambraces X
+Artian Guards X
+Diablos Wealcuffs
+Campanile Wealcuffs
+Strider's Gauntlets
+Deadeye's Gauntlets
+Guild Bard Braces X
+Guild Bard Sleeves X
+Scholar's Gloves X
+Scholar's Sleeves X
+DUMMY
+DUMMY
+Sailor Gloves
+Sailor Sleeves
+Chakra Bracelet
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
