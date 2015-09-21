@@ -1,0 +1,126 @@
+Torse +
+Poison
+Paralysie
+Sommeil
+Étourdir
+Boue/Neige
+Stériliser
+Assurance
+Bousier
+Biologie
+Attaque
+Défense
+Vie
+Récup.
+Protection
+Rengainage
+Charger
+Expert
+Attendrir
+Destruction
+KO
+Drainer
+Ninja
+Ouïe
+Vent
+Séisme
+Chaleur
+Froid
+Stamina
+Récupérer
+Évasion
+Esquive
+Dérobade
+Sens
+Garde
+Paladin
+Garde auto
+Statut
+Att. Feu
+Att. Eau
+At. Foudre
+Att. Glace
+At. Dragon
+Élémental
+Feu
+Eau
+Foudre
+Glace
+Dragon
+Tranchant
+Artisanat
+Escrime
+Aiguiseur
+Critique
+Punition
+Recharger
+Munitions
+Sniper
+Recul
+Précision
+Normale G
+Perçante G
+Plomb G
+Normale+
+Perçante+
+Plomb+
+Explosive+
+Frag.+
+Tranch.+
+Poiss.+
+E. pois.+
+E. para.+
+E. somm.+
+E. éner.+
+E. càc+
+E. épui.+
+E. poiss.+
+Musique
+Artillerie
+Bombardier
+Restaurer
+Soutien
+Objets
+Appétit
+Gastronome
+Repas
+Carnivore
+Inventeur
+Alchimiste
+Collecte
+Chapardeur
+Lubie
+Miel
+Charme
+Destin
+Dépeçage
+Capture
+Perception
+Lucidité
+Convoyeur
+Ranger
+Antivol
+Piège
+Aura feu
+Oxygène
+Courant
+Natation
+Aquatique
+Potentiel
+Survivant
+Puissance
+Courage
+Indemne
+Réveil
+Fléau
+Res Statut
+Constance
+Bravoure
+Aiguiseur
+Fermeté
+Furie
+Collectif
+Leader
+Carte
+Pêche
+Barbecue

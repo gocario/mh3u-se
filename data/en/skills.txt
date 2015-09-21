@@ -1,0 +1,126 @@
+Torso Up
+Poison
+Paralysis
+Sleep
+Stun
+Mud/Snow
+Antiseptic
+Def Lock
+Dungmaster
+Biology
+Attack
+Defense
+Health
+Rec Speed
+Protection
+Sheathing
+FastCharge
+Expert
+Tenderizer
+Destroyer
+KO
+Stam Drain
+Constitutn
+Hearing
+Wind Res
+Tremor Res
+Heart Res
+Cold Res
+Stamina
+Stam Recov
+Evasion
+Evade Dist
+Dive Dist
+Sense
+Guard
+Guard Up
+Auto-Guard
+Status
+Fire Atk
+Water Atk
+Thunder Atk
+Ice Atk
+Dragon Atk
+Elemental
+Fire Res
+Water Res
+Thunder Res
+Ice Res
+Dragon Res
+Sharpness
+Handicraft
+Fencing
+Sharpener
+Crit Draw
+PunishDraw
+Reload Spd
+Loading
+Rapid Fire
+Recoil
+Precision
+Normal Up
+Pierce Up
+Pellet Up
+Normal S +
+Pierce S +
+Pellet S +
+Crag S +
+Clust S +
+Slicing S +
+Slime S +
+Poison C +
+Para C +
+Sleep C +
+Power C +
+C. Range C +
+Exhaust C +
+Slime C +
+Maestro
+Artillery
+Bomb Boost
+Rec Level
+Wide-Range
+LastingPwr
+Hunger
+Gluttony
+Eating
+Carnivore
+Combo Rate
+Combo Plus
+Gathering
+Spd Gather
+Whim
+Honey
+Charmer
+Fate
+Carving
+Tranquilzr
+Perception
+Psychic
+Transportr
+Ranger
+Anti-Theft
+SpeedSetup
+Flame Aura
+Oxygen
+CurrentRes
+Swimming
+Sea Legs
+Potential
+Survivor
+Gloves Off
+Spirit
+Unscathed
+FreeElemnt
+Blight Res
+Status Res
+Unshakable
+Guts
+Edgemaster
+SteadyHand
+Fury
+TeamPlayer
+TeamLeader
+Map
+Fishing
+BBQ
