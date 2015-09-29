@@ -14,6 +14,6 @@ Heavy Bowgun
 Long Sword
 Switch-Axe
 Gunlance
-Gun
+Bow
 Dual Blades
 Hunting Horn
