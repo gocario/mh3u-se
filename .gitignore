@@ -1,28 +1,34 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Git
+.gitignore
 
-# Precompiled Headers
-*.gch
-*.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Debug
+app/MH3U\ Save\ Editor/Debug/*
+app/MH3U\ Save\ Editor/MH3U\ Save\ Editor/Debug/*
+app/MH3U\ Save\ Editor\ GUI/build-MH3USaveEditorGUI-Desktop_Qt_5_5_0_MinGW_32bit-Debug/*
+app/MH3U\ Save\ Editor\ GUI/build-MH3USaveEditorGUI-Desktop_Qt_5_5_0_MinGW_32bit-Release/*
 
-# Fortran module files
-*.mod
+*.opensdf
+*.sdf
+*.sln
+*.v11.suo
+*.vcxproj
+*.vcxproj.filters
+*.pro
+*.pro.user
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
 
-# Executables
-*.exe
-*.out
-*.app
+# Old Apps
+app/Save\ Editor/*
+app/Save\ Editor\ GUI/*
+
+
+# Wiki folder
+wiki
+
+
+# Saves
+save/*
+data/*.txt
+release/*
+screen/*
