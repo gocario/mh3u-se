@@ -3,7 +3,6 @@
 
 #include "main.hpp"
 
-
 /* --------- Constants --------- */
 
 #define BYTE_SIZE 0x1
@@ -55,78 +54,78 @@
 
 /* --------- Structures --------- */
 
-struct item_t
+typedef struct item_t
 {
 	uint16_t id;
 	uint16_t count;
-};
+} item_t;
 
 typedef uint8_t name_t[NAME_SIZE];
 typedef uint8_t equipment_t[EQUIPMENT_SIZE];
 
-struct armor_t
+typedef struct armor_t
 {
-    uint8_t equipmentType;
-    uint8_t upgradeLevel;
-    uint16_t identifier;
-    uint8_t foo31;
-    uint8_t blueComponent;
-    uint8_t greenComponent;
-    uint8_t redComponent;
-    uint16_t firstJewelIdentifier;
-    uint16_t secondJewelIdentifier;
-    uint16_t thirdJewelIdentifier;
-    uint8_t foo81;
-    uint8_t foo82;
-};
+	uint8_t equipmentType;
+	uint8_t upgradeLevel;
+	uint16_t identifier;
+	uint8_t foo31;
+	uint8_t blueComponent;
+	uint8_t greenComponent;
+	uint8_t redComponent;
+	uint16_t firstJewelIdentifier;
+	uint16_t secondJewelIdentifier;
+	uint16_t thirdJewelIdentifier;
+	uint8_t foo81;
+	uint8_t foo82;
+} armor_t;
 
-struct charm_t
+typedef struct charm_t
 {
-    uint8_t equipmentType;
-    uint8_t slotsCount;
-    uint16_t identifier;
-    uint8_t firstSkillIdentifier;
-    uint8_t firstSkillValue;
-    uint8_t secondSkillIdentifier;
-    uint8_t secondSkillValue;
-    uint16_t firstJewelIdentifier;
-    uint16_t secondJewelIdentifier;
-    uint16_t thirdJewelIdentifier;
-    uint8_t foo81;
-    uint8_t foo82;
-};
+	uint8_t equipmentType;
+	uint8_t slotsCount;
+	uint16_t identifier;
+	uint8_t firstSkillIdentifier;
+	uint8_t firstSkillValue;
+	uint8_t secondSkillIdentifier;
+	uint8_t secondSkillValue;
+	uint16_t firstJewelIdentifier;
+	uint16_t secondJewelIdentifier;
+	uint16_t thirdJewelIdentifier;
+	uint8_t foo81;
+	uint8_t foo82;
+} charm_t;
 
-struct weapon_t
+typedef struct weapon_t
 {
-    uint8_t equipmentType;
-    uint8_t foo12;
-    uint16_t identifier;
-    uint8_t foo31;
-    uint8_t foo32;
-    uint8_t foo41;
-    uint8_t foo42;
-    uint16_t firstJewelIdentifier;
-    uint16_t secondJewelIdentifier;
-    uint16_t thirdJewelIdentifier;
-    uint8_t foo81;
-    uint8_t foo82;
-};
+	uint8_t equipmentType;
+	uint8_t foo12;
+	uint16_t identifier;
+	uint8_t foo31;
+	uint8_t foo32;
+	uint8_t foo41;
+	uint8_t foo42;
+	uint16_t firstJewelIdentifier;
+	uint16_t secondJewelIdentifier;
+	uint16_t thirdJewelIdentifier;
+	uint8_t foo81;
+	uint8_t foo82;
+} weapon_t;
 
 
-struct save_t
+typedef struct save_t
 {
 	uint8_t sex;
 	uint8_t face;
 	uint8_t hair;
-    name_t name;
+	name_t name;
 	uint32_t money;
 	uint8_t voice;
 	item_t inventory[3][8];
 	item_t pouch[4][8];
 	item_t chest[10][100];
-    equipment_t box[10][100];
+	equipment_t box[10][100];
 	uint32_t mogapoint;
-};
+} save_t;
 
 typedef uint8_t save_buffer_t[SAVEFILE_SIZE];
 
@@ -139,17 +138,17 @@ class MH3U_SE
 		MH3U_SE();
 		~MH3U_SE();
 
-        // Propriété : `filename`
-        void setFilename(std::string output);
-        // Propriété bool : `savedata`
-        bool loaded();
+		// Propriété : `filename`
+		void setFilename(std::string output);
+		// Propriété bool : `savedata`
+		bool loaded();
 
 
 		// Convertit un fichier en savedata et en buffer
 		bool load(std::string input);
 		// Convertit un savedata et un buffer en fichier
 		bool save();
-        bool save(std::string output);
+		bool save(std::string output);
 
 		save_t* savedata;
 
@@ -185,39 +184,39 @@ class MH3U_SE
 #define HH_TYPE 19
 */
 
-namespace MH3U_Type {
+namespace MH3U_Type
+{
+	typedef enum equipment_type_e
+	{
+		NoneType = 0,
+		ChestType = 1,
+		ArmsType = 2,
+		WaistType = 3,
+		LegsType = 4,
+		HeadType = 5,
+		CharmType = 6,
+		GSType = 7,
+		SNSType = 8,
+		HType = 9,
+		LType = 10,
+		HBGType = 11,
+		UnknowType = 12,
+		LBGType = 13,
+		LSType = 14,
+		SAType = 15,
+		GLType = 16,
+		BowType = 17,
+		DBType = 18,
+		HHType = 19,
+	} equipment_type_e;
 
-    typedef enum
-    {
-        NoneType = 0,
-        ChestType = 1,
-        ArmsType = 2,
-        WaistType = 3,
-        LegsType = 4,
-        HeadType = 5,
-        CharmType = 6,
-        GSType = 7,
-        SNSType = 8,
-        HType = 9,
-        LType = 10,
-        HBGType = 11,
-        UnknowType = 12,
-        LBGType = 13,
-        LSType = 14,
-        SAType = 15,
-        GLType = 16,
-        BowType = 17,
-        DBType = 18,
-        HHType = 19,
-    } equipment_type_e;
-
-    typedef enum
-    {
-        NoneSubtype = 0,
-        ArmorSubtype = 1,
-        CharmSubtype = 2,
-        WeaponSubtype = 3,
-    } equipment_subtype_e;
+	typedef enum equipment_subtype_e
+	{
+		NoneSubtype = 0,
+		ArmorSubtype = 1,
+		CharmSubtype = 2,
+		WeaponSubtype = 3,
+	} equipment_subtype_e;
 
 }
 
@@ -226,15 +225,15 @@ typedef MH3U_Type::equipment_type_e equipment_type_e;
 
 class MH3U_Armory
 {
-    public:
-        static equipment_subtype_e convertSubtype(uint8_t equipmentType);
-        static equipment_subtype_e convertSubtype(equipment_type_e equipmentType);
-        static armor_t convertEquipmentToArmor(equipment_t &equipment);
-        static void convertArmorToEquipment(armor_t &armor, equipment_t &equipment);
-        static charm_t convertEquipmentToCharm(equipment_t &equipment);
-        static void convertCharmToEquipment(charm_t &charm, equipment_t &equipment);
-        static weapon_t convertEquipmentToWeapon(equipment_t &equipment);
-        static void convertWeaponToEquipment(weapon_t &weapon, equipment_t &equipment);
+	public:
+		static equipment_subtype_e convertSubtype(uint8_t equipmentType);
+		static equipment_subtype_e convertSubtype(equipment_type_e equipmentType);
+		static armor_t convertEquipmentToArmor(equipment_t &equipment);
+		static void convertArmorToEquipment(armor_t &armor, equipment_t &equipment);
+		static charm_t convertEquipmentToCharm(equipment_t &equipment);
+		static void convertCharmToEquipment(charm_t &charm, equipment_t &equipment);
+		static weapon_t convertEquipmentToWeapon(equipment_t &equipment);
+		static void convertWeaponToEquipment(weapon_t &weapon, equipment_t &equipment);
 };
 
 #endif // MH3U_SE_HPP

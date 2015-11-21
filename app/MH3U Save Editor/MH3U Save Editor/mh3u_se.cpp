@@ -1,25 +1,27 @@
 #include "mh3u_se.hpp"
 
-//#define DEBUG
 
 MH3U_SE::MH3U_SE()
 {
 	savedata = NULL;
 }
 
+
 MH3U_SE::~MH3U_SE()
 {
-    cdelete(savedata);
+	cdelete(savedata);
 }
+
 
 void MH3U_SE::setFilename(std::string output)
 {
-    this->filename = output;
+	this->filename = output;
 }
+
 
 bool MH3U_SE::loaded()
 {
-    return (this->savedata != NULL);
+	return (this->savedata != NULL);
 }
 
 
@@ -31,7 +33,7 @@ bool MH3U_SE::load(std::string input)
 
 	try
 	{
-        fs.open(input.c_str(), std::fstream::in | std::fstream::binary);
+		fs.open(input.c_str(), std::fstream::in | std::fstream::binary);
 	
 		if (!fs)
 		{
@@ -60,7 +62,7 @@ bool MH3U_SE::load(std::string input)
 		ss.read((char*)&(savedata->hair), HAIR_SIZE);
 
 		ss.seekg(NAME_OFFSET, ss.beg);
-        ss.read((char*) (savedata->name), NAME_SIZE);
+		ss.read((char*) (savedata->name), NAME_SIZE);
 
 		ss.seekg(MONEY_OFFSET, ss.beg);
 		ss.read((char*)&(savedata->money), MONEY_SIZE);
@@ -128,10 +130,12 @@ bool MH3U_SE::load(std::string input)
 	}
 }
 
+
 bool MH3U_SE::save()
 {
 	return save(filename);
 }
+
 
 bool MH3U_SE::save(std::string output)
 {
@@ -141,7 +145,7 @@ bool MH3U_SE::save(std::string output)
 	{
 		if (!writeBuffer()) return false;
 
-        fs.open(output.c_str(), std::fstream::out | std::fstream::binary);
+		fs.open(output.c_str(), std::fstream::out | std::fstream::binary);
 
 		if (!fs)
 		{
@@ -158,7 +162,7 @@ bool MH3U_SE::save(std::string output)
 
 		return true;
 	}
-    catch(std::exception e)
+	catch(std::exception e)
 	{
 		std::cout << "Problem with ::save!" << std::endl;
 		return false;
@@ -224,11 +228,12 @@ bool MH3U_SE::writeBuffer()
 	return true;
 }
 
+
 void MH3U_SE::editBuffer(uint32_t pos, uint8_t* ptr, uint8_t size)
 {
 	if (!savedata) return;
 
-    for (uint32_t i = pos; i < SAVEFILE_SIZE && pos >= 0 && i < pos + size; i++)
+	for (uint32_t i = pos; i < SAVEFILE_SIZE && pos >= 0 && i < pos + size; i++)
 	{
 		buffer[i] = ptr[i-pos];
 	}
@@ -237,174 +242,179 @@ void MH3U_SE::editBuffer(uint32_t pos, uint8_t* ptr, uint8_t size)
 
 equipment_subtype_e MH3U_Armory::convertSubtype(uint8_t equipmentType)
 {
-    return MH3U_Armory::convertSubtype((equipment_type_e) equipmentType);
+	return MH3U_Armory::convertSubtype((equipment_type_e) equipmentType);
 }
+
 
 equipment_subtype_e MH3U_Armory::convertSubtype(equipment_type_e equipmentType)
 {
-    equipment_subtype_e subtype;
+	equipment_subtype_e subtype;
 
-    switch (equipmentType)
-    {
-        case MH3U_Type::ChestType:
-        case MH3U_Type::ArmsType:
-        case MH3U_Type::WaistType:
-        case MH3U_Type::LegsType:
-        case MH3U_Type::HeadType:
-        {
-            subtype = MH3U_Type::ArmorSubtype;
-            break;
-        }
-        case MH3U_Type::CharmType:
-        {
-            subtype = MH3U_Type::CharmSubtype;
-            break;
-        }
-        case MH3U_Type::GSType:
-        case MH3U_Type::SNSType:
-        case MH3U_Type::HType:
-        case MH3U_Type::LType:
-        case MH3U_Type::HBGType:
-        case MH3U_Type::LBGType:
-        case MH3U_Type::LSType:
-        case MH3U_Type::SAType:
-        case MH3U_Type::GLType:
-        case MH3U_Type::BowType:
-        case MH3U_Type::DBType:
-        case MH3U_Type::HHType:
-        {
-            subtype = MH3U_Type::WeaponSubtype;
-            break;
-        }
-        case MH3U_Type::UnknowType:
-        default:
-        {
-            subtype = MH3U_Type::NoneSubtype;
-            break;
-        }
-    }
+	switch (equipmentType)
+	{
+		case MH3U_Type::ChestType:
+		case MH3U_Type::ArmsType:
+		case MH3U_Type::WaistType:
+		case MH3U_Type::LegsType:
+		case MH3U_Type::HeadType:
+		{
+			subtype = MH3U_Type::ArmorSubtype;
+			break;
+		}
+		case MH3U_Type::CharmType:
+		{
+			subtype = MH3U_Type::CharmSubtype;
+			break;
+		}
+		case MH3U_Type::GSType:
+		case MH3U_Type::SNSType:
+		case MH3U_Type::HType:
+		case MH3U_Type::LType:
+		case MH3U_Type::HBGType:
+		case MH3U_Type::LBGType:
+		case MH3U_Type::LSType:
+		case MH3U_Type::SAType:
+		case MH3U_Type::GLType:
+		case MH3U_Type::BowType:
+		case MH3U_Type::DBType:
+		case MH3U_Type::HHType:
+		{
+			subtype = MH3U_Type::WeaponSubtype;
+			break;
+		}
+		case MH3U_Type::UnknowType:
+		default:
+		{
+			subtype = MH3U_Type::NoneSubtype;
+			break;
+		}
+	}
 
-    return subtype;
+	return subtype;
 }
 
 
 armor_t MH3U_Armory::convertEquipmentToArmor(equipment_t &equipment)
 {
-    armor_t armor;
+	armor_t armor;
 
-    armor.equipmentType = equipment[0];
-    armor.upgradeLevel = equipment[1];
-    armor.identifier = equipment[2] + equipment[3] * 0x100;
-    armor.foo31 = equipment[4];
-    armor.blueComponent = equipment[5];
-    armor.greenComponent = equipment[6];
-    armor.redComponent = equipment[7];
-    armor.firstJewelIdentifier = equipment[8] + equipment[9] * 0x100;
-    armor.secondJewelIdentifier = equipment[10] + equipment[11] * 0x100;
-    armor.thirdJewelIdentifier = equipment[12] + equipment[13] * 0x100;
-    armor.foo81 = equipment[14];
-    armor.foo82 = equipment[15];
+	armor.equipmentType = equipment[0];
+	armor.upgradeLevel = equipment[1];
+	armor.identifier = equipment[2] + equipment[3] * 0x100;
+	armor.foo31 = equipment[4];
+	armor.blueComponent = equipment[5];
+	armor.greenComponent = equipment[6];
+	armor.redComponent = equipment[7];
+	armor.firstJewelIdentifier = equipment[8] + equipment[9] * 0x100;
+	armor.secondJewelIdentifier = equipment[10] + equipment[11] * 0x100;
+	armor.thirdJewelIdentifier = equipment[12] + equipment[13] * 0x100;
+	armor.foo81 = equipment[14];
+	armor.foo82 = equipment[15];
 
-    return armor;
+	return armor;
 }
+
 
 void MH3U_Armory::convertArmorToEquipment(armor_t &armor, equipment_t &equipment)
 {
-    (equipment[0]) = armor.equipmentType;
-    (equipment[1]) = armor.upgradeLevel;
-    (equipment[2]) = armor.identifier % 0x100;
-    (equipment[3]) = armor.identifier / 0x100;
-    (equipment[4]) = armor.foo31;
-    (equipment[5]) = armor.blueComponent;
-    (equipment[6]) = armor.greenComponent;
-    (equipment[7]) = armor.redComponent;
-    (equipment[8]) = armor.firstJewelIdentifier % 0x100;
-    (equipment[9]) = armor.firstJewelIdentifier / 0x100;
-    (equipment[10]) = armor.secondJewelIdentifier % 0x100;
-    (equipment[11]) = armor.secondJewelIdentifier / 0x100;
-    (equipment[12]) = armor.thirdJewelIdentifier % 0x100;
-    (equipment[13]) = armor.thirdJewelIdentifier / 0x100;
-    (equipment[14]) = armor.foo81;
-    (equipment[15]) = armor.foo82;
+	(equipment[0]) = armor.equipmentType;
+	(equipment[1]) = armor.upgradeLevel;
+	(equipment[2]) = armor.identifier % 0x100;
+	(equipment[3]) = armor.identifier / 0x100;
+	(equipment[4]) = armor.foo31;
+	(equipment[5]) = armor.blueComponent;
+	(equipment[6]) = armor.greenComponent;
+	(equipment[7]) = armor.redComponent;
+	(equipment[8]) = armor.firstJewelIdentifier % 0x100;
+	(equipment[9]) = armor.firstJewelIdentifier / 0x100;
+	(equipment[10]) = armor.secondJewelIdentifier % 0x100;
+	(equipment[11]) = armor.secondJewelIdentifier / 0x100;
+	(equipment[12]) = armor.thirdJewelIdentifier % 0x100;
+	(equipment[13]) = armor.thirdJewelIdentifier / 0x100;
+	(equipment[14]) = armor.foo81;
+	(equipment[15]) = armor.foo82;
 }
+
 
 charm_t MH3U_Armory::convertEquipmentToCharm(equipment_t &equipment)
 {
-    charm_t charm;
+	charm_t charm;
 
-    charm.equipmentType = equipment[0];
-    charm.slotsCount = equipment[1];
-    charm.identifier = equipment[2] + equipment[3] * 0x100;
-    charm.firstSkillIdentifier = equipment[4];
-    charm.firstSkillValue = equipment[5];
-    charm.secondSkillIdentifier = equipment[6];
-    charm.secondSkillValue = equipment[7];
-    charm.firstJewelIdentifier = equipment[8] + equipment[9] * 0x100;
-    charm.secondJewelIdentifier = equipment[10] + equipment[11] * 0x100;
-    charm.thirdJewelIdentifier = equipment[12] + equipment[13] * 0x100;
-    charm.foo81 = equipment[14];
-    charm.foo82 = equipment[15];
+	charm.equipmentType = equipment[0];
+	charm.slotsCount = equipment[1];
+	charm.identifier = equipment[2] + equipment[3] * 0x100;
+	charm.firstSkillIdentifier = equipment[4];
+	charm.firstSkillValue = equipment[5];
+	charm.secondSkillIdentifier = equipment[6];
+	charm.secondSkillValue = equipment[7];
+	charm.firstJewelIdentifier = equipment[8] + equipment[9] * 0x100;
+	charm.secondJewelIdentifier = equipment[10] + equipment[11] * 0x100;
+	charm.thirdJewelIdentifier = equipment[12] + equipment[13] * 0x100;
+	charm.foo81 = equipment[14];
+	charm.foo82 = equipment[15];
 
-    return charm;
+	return charm;
 }
+
 
 void MH3U_Armory::convertCharmToEquipment(charm_t &charm, equipment_t &equipment)
 {
-    (equipment[0]) = charm.equipmentType;
-    (equipment[1]) = charm.slotsCount;
-    (equipment[2]) = charm.identifier % 0x100;
-    (equipment[3]) = charm.identifier / 0x100;
-    (equipment[4]) = charm.firstSkillIdentifier;
-    (equipment[5]) = charm.firstSkillValue;
-    (equipment[6]) = charm.secondSkillIdentifier;
-    (equipment[7]) = charm.secondSkillValue;
-    (equipment[8]) = charm.firstJewelIdentifier % 0x100;
-    (equipment[9]) = charm.firstJewelIdentifier / 0x100;
-    (equipment[10]) = charm.secondJewelIdentifier % 0x100;
-    (equipment[11]) = charm.secondJewelIdentifier / 0x100;
-    (equipment[12]) = charm.thirdJewelIdentifier % 0x100;
-    (equipment[13]) = charm.thirdJewelIdentifier / 0x100;
-    (equipment[14]) = charm.foo81;
-    (equipment[15]) = charm.foo82;
+	(equipment[0]) = charm.equipmentType;
+	(equipment[1]) = charm.slotsCount;
+	(equipment[2]) = charm.identifier % 0x100;
+	(equipment[3]) = charm.identifier / 0x100;
+	(equipment[4]) = charm.firstSkillIdentifier;
+	(equipment[5]) = charm.firstSkillValue;
+	(equipment[6]) = charm.secondSkillIdentifier;
+	(equipment[7]) = charm.secondSkillValue;
+	(equipment[8]) = charm.firstJewelIdentifier % 0x100;
+	(equipment[9]) = charm.firstJewelIdentifier / 0x100;
+	(equipment[10]) = charm.secondJewelIdentifier % 0x100;
+	(equipment[11]) = charm.secondJewelIdentifier / 0x100;
+	(equipment[12]) = charm.thirdJewelIdentifier % 0x100;
+	(equipment[13]) = charm.thirdJewelIdentifier / 0x100;
+	(equipment[14]) = charm.foo81;
+	(equipment[15]) = charm.foo82;
 }
 
 
 weapon_t MH3U_Armory::convertEquipmentToWeapon(equipment_t &equipment)
 {
-    weapon_t weapon;
+	weapon_t weapon;
 
-    weapon.equipmentType = equipment[0];
-    weapon.foo12 = equipment[1];
-    weapon.identifier = equipment[2] + equipment[3] * 0x100;
-    weapon.foo31 = equipment[4];
-    weapon.foo32 = equipment[5];
-    weapon.foo41 = equipment[6];
-    weapon.foo42 = equipment[7];
-    weapon.firstJewelIdentifier = equipment[8] + equipment[9] * 0x100;
-    weapon.secondJewelIdentifier = equipment[10] + equipment[11] * 0x100;
-    weapon.thirdJewelIdentifier = equipment[12] + equipment[13] * 0x100;
-    weapon.foo81 = equipment[14];
-    weapon.foo82 = equipment[15];
+	weapon.equipmentType = equipment[0];
+	weapon.foo12 = equipment[1];
+	weapon.identifier = equipment[2] + equipment[3] * 0x100;
+	weapon.foo31 = equipment[4];
+	weapon.foo32 = equipment[5];
+	weapon.foo41 = equipment[6];
+	weapon.foo42 = equipment[7];
+	weapon.firstJewelIdentifier = equipment[8] + equipment[9] * 0x100;
+	weapon.secondJewelIdentifier = equipment[10] + equipment[11] * 0x100;
+	weapon.thirdJewelIdentifier = equipment[12] + equipment[13] * 0x100;
+	weapon.foo81 = equipment[14];
+	weapon.foo82 = equipment[15];
 
-    return weapon;
+	return weapon;
 }
+
 
 void MH3U_Armory::convertWeaponToEquipment(weapon_t &weapon, equipment_t &equipment)
 {
-    (equipment[0]) = weapon.equipmentType;
-    (equipment[1]) = weapon.foo12;
-    (equipment[2]) = weapon.identifier % 0x100;
-    (equipment[3]) = weapon.identifier / 0x100;
-    (equipment[4]) = weapon.foo31;
-    (equipment[5]) = weapon.foo32;
-    (equipment[6]) = weapon.foo41;
-    (equipment[7]) = weapon.foo42;
-    (equipment[8]) = weapon.firstJewelIdentifier % 0x100;
-    (equipment[9]) = weapon.firstJewelIdentifier / 0x100;
-    (equipment[10]) = weapon.secondJewelIdentifier % 0x100;
-    (equipment[11]) = weapon.secondJewelIdentifier / 0x100;
-    (equipment[12]) = weapon.thirdJewelIdentifier % 0x100;
-    (equipment[13]) = weapon.thirdJewelIdentifier / 0x100;
-    (equipment[14]) = weapon.foo81;
-    (equipment[15]) = weapon.foo82;
+	(equipment[0]) = weapon.equipmentType;
+	(equipment[1]) = weapon.foo12;
+	(equipment[2]) = weapon.identifier % 0x100;
+	(equipment[3]) = weapon.identifier / 0x100;
+	(equipment[4]) = weapon.foo31;
+	(equipment[5]) = weapon.foo32;
+	(equipment[6]) = weapon.foo41;
+	(equipment[7]) = weapon.foo42;
+	(equipment[8]) = weapon.firstJewelIdentifier % 0x100;
+	(equipment[9]) = weapon.firstJewelIdentifier / 0x100;
+	(equipment[10]) = weapon.secondJewelIdentifier % 0x100;
+	(equipment[11]) = weapon.secondJewelIdentifier / 0x100;
+	(equipment[12]) = weapon.thirdJewelIdentifier % 0x100;
+	(equipment[13]) = weapon.thirdJewelIdentifier / 0x100;
+	(equipment[14]) = weapon.foo81;
+	(equipment[15]) = weapon.foo82;
 }

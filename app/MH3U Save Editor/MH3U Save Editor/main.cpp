@@ -1,4 +1,9 @@
-
+/**
+ * Research
+ * Entry
+ * Point
+ */
+ 
 #include "main.hpp"
 #include "mh3u_se.hpp"
 #include "mh3u_ds.hpp"
@@ -18,7 +23,7 @@ int mh3u_se(int argc, char* argv[])
 
 	mh3u->load("H:/Users/Gocario/Documents/Monster Hunter/Monster Hunter 3 Ultimate/save/analyse/user3_eq_2");
 
-	uint8_t type = DB_TYPE;
+	uint8_t type = MH3U_Type::DBType;
 	for (uint32_t i = 1; i < 5; i++)
 	{
 		for (uint32_t j = 0; j < 100; j++)
