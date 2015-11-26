@@ -106,9 +106,9 @@ bool MH3U_DS::deleteData(void)
 		cdelete(MH3U_DS::_hWeapons);
 		cdelete(MH3U_DS::_snsWeapons);
 		cdelete(MH3U_DS::_hWeapons);
-		cdelete(MH3U_DS::_lWeapons);
-		cdelete(MH3U_DS::_lbgWeapons);
-		cdelete(MH3U_DS::_hbgWeapons);
+        cdelete(MH3U_DS::_lWeapons);
+        cdelete(MH3U_DS::_hbgWeapons);
+        cdelete(MH3U_DS::_lbgWeapons);
 		cdelete(MH3U_DS::_lsWeapons);
 		cdelete(MH3U_DS::_saWeapons);
 		cdelete(MH3U_DS::_glWeapons);

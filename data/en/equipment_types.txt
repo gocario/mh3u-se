@@ -8,9 +8,9 @@ Great Sword
 Sword & Shield
 Hammer
 Lance
-Light Bowgun
-
 Heavy Bowgun
+
+Light Bowgun
 Long Sword
 Switch-Axe
 Gunlance
